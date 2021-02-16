@@ -8876,7 +8876,7 @@ Dialogue: 2:00:08.06, 2:00:10.15, Default, {\c&HFFFFFF&}CatsNeverDie1{\c&HFFFFFF
 Dialogue: 2:00:08.19, 2:00:10.80, Default, {\c&HFFFFFF&}kasaaatik{\c&HFFFFFF&}: Есть такие фильмы, про пиццу с распорками
 Dialogue: 2:00:08.19, 2:00:12.23, Default, {\c&HFFFFFF&}itxva{\c&HFFFFFF&}: @BlackUFA Артур, вопрос: должны ли модеры объяснять \Nпричину мьюта? Кинули 10 минут, я не понял почему, в какой-\Nто сленг попал, случайно?
 ; Dialogue: 2:00:09.70, 2:00:11.77, Default, {\c&H507FFF&}Altair2018{\c&HFFFFFF&}: !игра
-; Dialogue: 2:00:12.53, 2:00:15.32, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/HeartlessUnsightlyDolphinWOOP
+Dialogue: 2:00:12.53, 2:00:15.32, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/HeartlessUnsightlyDolphinWOOP
 Dialogue: 2:00:18.64, 2:00:21.58, Default, {\c&H008000&}TATAP_BALAM{\c&HFFFFFF&}: А в упакове от попкорна тоже такую распорку \Nможно использовать?
 Dialogue: 2:00:19.22, 2:00:21.40, Default, {\c&HE22B8A&}Mournoon{\c&HFFFFFF&}: Токсичностью
 Dialogue: 2:00:24.49, 2:00:27.49, Default, {\c&HFFFFFF&}cyber_xep2077{\c&HFFFFFF&}: @BlackUFA на косяке закрытой двери в верхнем \Nлевом углу что-то есть
@@ -19600,7 +19600,7 @@ Dialogue: 5:17:05.48, 5:17:07.57, Default, {\c&HFF901E&}l3uga{\c&HFFFFFF&}: Би
 Dialogue: 5:17:10.42, 5:17:13.23, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @Yaktoshtop пффф, меня не забанят, ти шо \NFeelsGreatMan
 Dialogue: 5:17:10.56, 5:17:12.83, Default, {\c&H0000FF&}extra7m{\c&HFFFFFF&}: и подорвался снова
 Dialogue: 5:17:12.52, 5:17:16.75, Default, {\c&HFFFFFF&}marsianka_somni{\c&HFFFFFF&}: @severnaya_utka сессию закрыла хорошо, без \Nкосяков) по дому скучаю, тк. большую часть времени тусую в \Nобщаге, а домой езжу на денёк раз в две недели(
-; Dialogue: 5:17:17.47, 5:17:20.23, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ScrumptiousSourPrariedogYee
+Dialogue: 5:17:17.47, 5:17:20.23, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ScrumptiousSourPrariedogYee
 Dialogue: 5:17:23.53, 5:17:26.05, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Это точно наш стримлер? bufaBobchan
 Dialogue: 5:17:27.34, 5:17:30.01, Default, {\c&HFFFFFF&}nonsubiyaforever{\c&HFFFFFF&}: @ubuntu_kubuntu_edubuntu Закончим не в \Nконце?
 Dialogue: 5:17:34.98, 5:17:37.05, Default, {\c&H32CD9A&}Krabelli{\c&HFFFFFF&}: Тоха!

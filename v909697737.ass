@@ -9262,7 +9262,7 @@ Dialogue: 2:17:04.38, 2:17:06.95, Default, {\c&HFFFFFF&}Molo4nik42rus{\c&HFFFFFF
 Dialogue: 2:17:04.80, 2:17:06.93, Default, {\c&H7FFF00&}ARTypKUN_OPGasm{\c&HFFFFFF&}: глазки)))
 Dialogue: 2:17:05.90, 2:17:08.17, Default, {\c&H7FFF00&}GRANDER45{\c&HFFFFFF&}: ля как палит падло
 Dialogue: 2:17:06.03, 2:17:08.60, Default, {\c&HFF901E&}HoromiMiko{\c&HFFFFFF&}: глаза WutFace кругом глаза WutFace x⁣3
-; Dialogue: 2:17:06.21, 2:17:09.33, Default, {\c&H0045FF&}lucifers__cat{\c&HFFFFFF&}: \NMEGALUL peepoRun MEGALUL peepoRun MEGALUL peepoRun x⁣2 \NMEGALUL peepoRun x⁣2
+Dialogue: 2:17:06.21, 2:17:09.33, Default, {\c&H0045FF&}lucifers__cat{\c&HFFFFFF&}: \NMEGALUL peepoRun MEGALUL peepoRun MEGALUL peepoRun x⁣2 \NMEGALUL peepoRun x⁣2
 Dialogue: 2:17:08.05, 2:17:10.30, Default, {\c&HA09E5F&}nordwester{\c&HFFFFFF&}: сейчас будет эпик
 Dialogue: 2:17:08.27, 2:17:10.63, Default, {\c&H2222B2&}S1mpleN1ck{\c&HFFFFFF&}: PepoG ай хев ноу чойс...
 Dialogue: 2:17:08.62, 2:17:10.78, Default, {\c&H0000FF&}Railag_{\c&HFFFFFF&}: monkaBehind
@@ -18826,7 +18826,7 @@ Dialogue: 4:23:38.28, 4:23:40.61, Default, {\c&H578B2E&}armogidunec{\c&HFFFFFF&}
 Dialogue: 4:23:38.62, 4:23:40.68, Default, {\c&H20A5DA&}ximera1234{\c&HFFFFFF&}: 4221
 Dialogue: 4:23:39.60, 4:23:42.00, Default, {\c&HFFFFFF&}derpy_278{\c&HFFFFFF&}: Squid1 Squid2 Squid3 Squid4
 Dialogue: 4:23:40.17, 4:23:42.39, Default, {\c&H578B2E&}Fess8659{\c&HFFFFFF&}: @mamka_dan, Хай
-; Dialogue: 4:23:41.65, 4:23:44.35, Default, {\c&HFF0000&}l_lazy_rabbit{\c&HFFFFFF&}: \Nрешиииииииииииииииииииииииииииииииллллллллллллл
+Dialogue: 4:23:41.65, 4:23:44.35, Default, {\c&HFF0000&}l_lazy_rabbit{\c&HFFFFFF&}: \Nрешиииииииииииииииииииииииииииииииллллллллллллл
 Dialogue: 4:23:42.79, 4:23:45.07, Default, {\c&H7FFF00&}pecalka{\c&HFFFFFF&}: озвучка от фаргуса?
 Dialogue: 4:23:43.37, 4:23:45.77, Default, {\c&HFF901E&}zanuda226{\c&HFFFFFF&}: это че был тирекс ? LUL LUL
 Dialogue: 4:23:43.53, 4:23:45.75, Default, {\c&HB469FF&}murziia{\c&HFFFFFF&}: металл заитграл
@@ -20573,7 +20573,7 @@ Dialogue: 4:40:54.94, 4:40:57.04, Default, {\c&HFFFFFF&}FriendlyWight{\c&HFFFFFF
 Dialogue: 4:40:55.16, 4:40:57.32, Default, {\c&HFFFFFF&}johnconor14{\c&HFFFFFF&}: NotLikeThis
 Dialogue: 4:40:55.60, 4:40:57.73, Default, {\c&H20A5DA&}RebellHammer{\c&HFFFFFF&}: туда беги
 Dialogue: 4:40:56.87, 4:40:59.45, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: может в замочную скважину сунуть ключ?)
-; Dialogue: 4:40:58.68, 4:41:01.73, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RespectfulGrossWitchFUNgineer-\NyymduuLi9l1yktv3
+Dialogue: 4:40:58.68, 4:41:01.73, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RespectfulGrossWitchFUNgineer-\NyymduuLi9l1yktv3
 Dialogue: 4:40:58.92, 4:41:01.34, Default, {\c&HFF0000&}AlexLeonPlay{\c&HFFFFFF&}: @BlackUFA Акуле её скорми!!!
 Dialogue: 4:40:59.87, 4:41:02.08, Default, {\c&HE22B8A&}kai_shin_tvar{\c&HFFFFFF&}: а женщина умна
 Dialogue: 4:40:59.92, 4:41:02.02, Default, {\c&H578B2E&}Molchun{\c&HFFFFFF&}: WutFace
@@ -20587,7 +20587,7 @@ Dialogue: 4:41:07.24, 4:41:09.55, Default, {\c&H20A5DA&}BlackUFA1{\c&HFFFFFF&}: 
 Dialogue: 4:41:08.23, 4:41:10.45, Default, {\c&HA919A4&}ca6acas{\c&HFFFFFF&}: Скорми ее акуле
 Dialogue: 4:41:09.23, 4:41:11.86, Default, {\c&HFFFFFF&}MAgDod0{\c&HFFFFFF&}: Видимо нужно найти ключ от дома? @BlackUFA
 Dialogue: 4:41:10.51, 4:41:12.81, Default, {\c&H20A5DA&}Gazirovanniy{\c&HFFFFFF&}: RiasSenpai SmokeTime
-; Dialogue: 4:41:10.91, 4:41:13.96, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RespectfulGrossWitchFUNgineer-\NyymduuLi9l1yktv3
+Dialogue: 4:41:10.91, 4:41:13.96, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RespectfulGrossWitchFUNgineer-\NyymduuLi9l1yktv3
 Dialogue: 4:41:11.65, 4:41:13.92, Default, {\c&HFFFFFF&}prorok_nonsubii{\c&HFFFFFF&}: Беги, Форест! Беги
 Dialogue: 4:41:14.44, 4:41:16.75, Default, {\c&HFFFFFF&}AlenaPam9tka{\c&HFFFFFF&}: заманивай ее к акуле)
 Dialogue: 4:41:15.51, 4:41:17.63, Default, {\c&HFFFFFF&}FriendlyWight{\c&HFFFFFF&}: peepoRun
@@ -20740,7 +20740,7 @@ Dialogue: 4:43:19.04, 4:43:21.10, Default, {\c&HBAEF1C&}VoxVon{\c&HFFFFFF&}: KEK
 Dialogue: 4:43:19.21, 4:43:21.66, Default, {\c&HFFFFFF&}kimmccormik{\c&HFFFFFF&}: прикинь в реале столько бегать
 Dialogue: 4:43:19.88, 4:43:22.24, Default, {\c&H2FFF00&}lightinside{\c&HFFFFFF&}: gachiBASS BBoomer BSUJam
 Dialogue: 4:43:20.15, 4:43:22.25, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: LUL x⁣4
-; Dialogue: 4:43:20.21, 4:43:23.42, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFFF&}: \NzululDrums peepoBeatSaber zululDrums peepoBeatSaber x⁣2 \NzululDrums peepoBeatSaber
+Dialogue: 4:43:20.21, 4:43:23.42, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFFF&}: \NzululDrums peepoBeatSaber zululDrums peepoBeatSaber x⁣2 \NzululDrums peepoBeatSaber
 Dialogue: 4:43:20.88, 4:43:23.45, Default, {\c&HFFFFFF&}Molo4nik42rus{\c&HFFFFFF&}: А теперь заходим обратно и закрываемся
 Dialogue: 4:43:21.42, 4:43:23.52, Default, {\c&H008000&}Dzirt2a{\c&HFFFFFF&}: LUL LUL
 ; Dialogue: 4:43:21.64, 4:43:24.13, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: !кусь @NekoNic0le драатути Pepega

@@ -301,7 +301,7 @@ Dialogue: 0:05:50.66, 0:05:52.84, Default, {\c&H507FFF&}ckBoH4_c137{\c&HFFFFFF&}
 ; Dialogue: 0:05:52.08, 0:05:55.25, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @nezateynik выбирается из горящего танка и \Nкусает @sova_svetka за тыщу, BSUDAI
 Dialogue: 0:05:52.77, 0:05:55.92, Default, {\c&H008000&}Red_Des{\c&HFFFFFF&}: Miracle of Sound снова, о да Squid1 Squid2 Squid2 \NSquid3 Squid2 Squid2 Squid4
 Dialogue: 0:05:53.45, 0:05:55.60, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: BSUJam x⁣9
-; Dialogue: 0:05:53.91, 0:05:56.72, Default, {\c&HFFFFFF&}evilalexa1{\c&HFFFFFF&}: \NBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJam
+Dialogue: 0:05:53.91, 0:05:56.72, Default, {\c&HFFFFFF&}evilalexa1{\c&HFFFFFF&}: \NBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJamBSUJam
 Dialogue: 0:05:54.07, 0:05:56.53, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Squid1 TheIlluminati Squid4 x⁣4
 Dialogue: 0:05:54.61, 0:05:56.79, Default, {\c&H008000&}dexter_elf{\c&HFFFFFF&}: BSUDance x⁣3
 Dialogue: 0:05:55.88, 0:05:58.10, Default, {\c&H578B2E&}ChemleXVl{\c&HFFFFFF&}: Jammies Jammies
@@ -9893,7 +9893,7 @@ Dialogue: 2:21:24.23, 2:21:26.44, Default, {\c&HFFFFFF&}Beevil{\c&HFFFFFF&}: п�
 Dialogue: 2:21:24.50, 2:21:27.01, Default, {\c&H507FFF&}odessit_56{\c&HFFFFFF&}: @BlackUFA Изолентой провода смотай
 Dialogue: 2:21:24.85, 2:21:27.24, Default, {\c&HFFFFFF&}mitrandir__{\c&HFFFFFF&}: @BlackUFA провод изоленто!
 Dialogue: 2:21:25.38, 2:21:27.62, Default, {\c&HE22B8A&}pr0od{\c&HFFFFFF&}: Проводку замотай
-; Dialogue: 2:21:25.89, 2:21:28.65, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RichSparklyDonutGingerPower
+Dialogue: 2:21:25.89, 2:21:28.65, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/RichSparklyDonutGingerPower
 Dialogue: 2:21:26.27, 2:21:28.76, Default, {\c&HFF901E&}LaskovyEnotik{\c&HFFFFFF&}: @BlackUFA Может по проводу идти ?
 Dialogue: 2:21:26.84, 2:21:29.12, Default, {\c&HFFFFFF&}Phobos009{\c&HFFFFFF&}: ищаленту на провода
 ; Dialogue: 2:21:27.49, 2:21:29.55, Default, {\c&H0000FF&}FireKids007{\c&HFFFFFF&}: !icq
@@ -10072,7 +10072,7 @@ Dialogue: 2:25:05.81, 2:25:08.48, Default, {\c&HE22B8A&}pr0od{\c&HFFFFFF&}: Ло
 Dialogue: 2:25:08.47, 2:25:10.56, Default, {\c&H2222B2&}ricksxoxo{\c&HFFFFFF&}: хейтор
 Dialogue: 2:25:09.15, 2:25:11.25, Default, {\c&H7FFF00&}viktoria_tyan4ik{\c&HFFFFFF&}: LUL LUL
 Dialogue: 2:25:10.12, 2:25:12.42, Default, {\c&HFFFFFF&}kenrosebery{\c&HFFFFFF&}: аптипула монстрипула
-; Dialogue: 2:25:11.45, 2:25:14.29, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrunchyLivelyCaterpillarFrankerZ
+Dialogue: 2:25:11.45, 2:25:14.29, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CrunchyLivelyCaterpillarFrankerZ
 Dialogue: 2:25:14.43, 2:25:16.56, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: Азхахахах
 Dialogue: 2:25:15.24, 2:25:17.33, Default, {\c&HE22B8A&}TfHuAcNkKyou{\c&HFFFFFF&}: ахахах
 Dialogue: 2:25:15.64, 2:25:17.86, Default, {\c&HFFFFFF&}bonni22a{\c&HFFFFFF&}: 2020Rivalry x⁣3
@@ -12624,7 +12624,7 @@ Dialogue: 3:21:30.50, 3:21:32.84, Default, {\c&H1E69D2&}q2OneShot{\c&HFFFFFF&}: 
 Dialogue: 3:21:31.92, 3:21:34.44, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: Переиграл и уничтожил FeelsGreatMan
 Dialogue: 3:21:33.28, 3:21:35.62, Default, {\c&HFFFFFF&}belial777{\c&HFFFFFF&}: Он опять всех переиграл
 Dialogue: 3:21:36.91, 3:21:39.01, Default, {\c&HFFFFFF&}lDee_lDrake{\c&HFFFFFF&}: чииитер
-; Dialogue: 3:21:40.14, 3:21:42.89, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ProudGrotesqueMacaroniBIRB
+Dialogue: 3:21:40.14, 3:21:42.89, Default, {\c&H0045FF&}Sire_Luminus_Fox{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ProudGrotesqueMacaroniBIRB
 Dialogue: 3:21:44.35, 3:21:47.49, Default, {\c&HB469FF&}lakrinalakri{\c&HFFFFFF&}: Если вы идёте по магазину, и слышите дикий \Nхохот из отдела, то это я там LUL
 Dialogue: 3:21:48.61, 3:21:50.71, Default, {\c&HFFFFFF&}jora37{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 3:21:49.01, 3:21:51.52, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @pepa_na_diete peepoBye peepoLeave
@@ -12774,7 +12774,7 @@ Dialogue: 3:24:17.33, 3:24:19.43, Default, {\c&HFFFFFF&}heykarin{\c&HFFFFFF&}: L
 Dialogue: 3:24:17.73, 3:24:19.91, Default, {\c&HFFFFFF&}drunk_pigeon1{\c&HFFFFFF&}: bufaEvil x⁣3
 Dialogue: 3:24:19.38, 3:24:21.54, Default, {\c&HFF901E&}Leshik_Bold{\c&HFFFFFF&}: ля в домике
 Dialogue: 3:24:19.41, 3:24:21.57, Default, {\c&HFFFFFF&}taki_tanatos{\c&HFFFFFF&}: bufaLUL x⁣4
-; Dialogue: 3:24:19.57, 3:24:22.36, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SeductivePiliableFungusM4xHeh
+Dialogue: 3:24:19.57, 3:24:22.36, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/SeductivePiliableFungusM4xHeh
 Dialogue: 3:24:19.62, 3:24:21.72, Default, {\c&HFFFFFF&}bezgodovvv{\c&HFFFFFF&}: сломано
 Dialogue: 3:24:20.01, 3:24:22.23, Default, {\c&HFFFFFF&}velasiped1{\c&HFFFFFF&}: ловугка джокера
 Dialogue: 3:24:20.51, 3:24:22.85, Default, {\c&HFF901E&}TOSYAed{\c&HFFFFFF&}: KEKW хватит игру ломать
@@ -12928,7 +12928,7 @@ Dialogue: 3:26:31.94, 3:26:34.07, Default, {\c&H20A5DA&}Yambaru{\c&HFFFFFF&}: п
 Dialogue: 3:26:36.34, 3:26:38.89, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: @hardploff, значит не будем jstMoshna
 Dialogue: 3:26:39.76, 3:26:42.12, Default, {\c&HFFFFFF&}gottvoll{\c&HFFFFFF&}: даже монстру ты не нужен
 Dialogue: 3:26:40.62, 3:26:42.72, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: MEGALUL
-; Dialogue: 3:26:42.33, 3:26:45.21, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ProductiveEphemeralMooseTBTacoRight
+Dialogue: 3:26:42.33, 3:26:45.21, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ProductiveEphemeralMooseTBTacoRight
 Dialogue: 3:26:43.59, 3:26:45.90, Default, {\c&H7FFF00&}ziro_29{\c&HFFFFFF&}: главный монстр заперт
 Dialogue: 3:26:45.51, 3:26:48.51, Default, {\c&HFF901E&}Divamc1{\c&HFFFFFF&}: @GraciSL Бомжур! PETTHEMOD ponydvHilove Haha2020 \N2020Rivalry bufaUL
 Dialogue: 3:26:45.53, 3:26:48.32, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: подойди в упор к двери и он тебя, может быть, \Nсожрёт)
@@ -16851,7 +16851,7 @@ Dialogue: 5:15:30.84, 5:15:33.14, Default, {\c&H0045FF&}Anatoliy_Gamer{\c&HFFFFF
 Dialogue: 5:15:32.33, 5:15:34.76, Default, {\c&H2222B2&}S1mpleN1ck{\c&HFFFFFF&}: peepoGiggles Мы уже приехали?
 Dialogue: 5:15:33.21, 5:15:35.81, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: приключения чемпиона сиродиила в таймыре
 Dialogue: 5:15:37.04, 5:15:39.94, Default, {\c&H0000FF&}ex739{\c&HFFFFFF&}: "испытания на дороге...которая уже есть...." \NNotLikeThis LUL
-; Dialogue: 5:15:37.72, 5:15:40.47, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AmusedFrozenTapirSwiftRage
+Dialogue: 5:15:37.72, 5:15:40.47, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AmusedFrozenTapirSwiftRage
 Dialogue: 5:15:42.54, 5:15:45.26, Default, {\c&H008000&}Red_Des{\c&HFFFFFF&}: Таймыр под музыку Обливиона это, немного странно
 Dialogue: 5:15:46.91, 5:15:49.22, Default, {\c&HE22B8A&}vermilion4221{\c&HFFFFFF&}: @ibanezzzz asus cetra
 ; Dialogue: 5:15:47.28, 5:15:50.48, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Скидка до 10% на продукцию ASUS для армии 4221! \NПромокод BSU https://u.to/sJAXFw

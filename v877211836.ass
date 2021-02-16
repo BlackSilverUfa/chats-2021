@@ -228,7 +228,7 @@ Dialogue: 0:05:28.98, 0:05:31.13, Default, {\c&HE22B8A&}dyxrom{\c&HFFFFFF&}: BSU
 Dialogue: 0:05:29.98, 0:05:32.13, Default, {\c&HFF901E&}Atabal24{\c&HFFFFFF&}: BSUJam x⁣5
 Dialogue: 0:05:30.83, 0:05:33.47, Default, {\c&H0000FF&}OtterWithCanon{\c&HFFFFFF&}: Всем привет от заснеженной выдры GivePLZ <3
 Dialogue: 0:05:31.94, 0:05:34.24, Default, {\c&H20A5DA&}omane{\c&HFFFFFF&}: вечер добрый HeyGuys
-; Dialogue: 0:05:32.46, 0:05:35.58, Default, {\c&H1E69D2&}Seyosan{\c&HFFFFFF&}: \NpepeJAM PianoTime pepeJAM PianoTime pepeJAM PianoTime x⁣3 \NPianoTime pepeJAM
+Dialogue: 0:05:32.46, 0:05:35.58, Default, {\c&H1E69D2&}Seyosan{\c&HFFFFFF&}: \NpepeJAM PianoTime pepeJAM PianoTime pepeJAM PianoTime x⁣3 \NPianoTime pepeJAM
 Dialogue: 0:05:32.57, 0:05:34.66, Default, {\c&HFFFFFF&}krivorykii_krabik{\c&HFFFFFF&}: <3 x⁣3
 Dialogue: 0:05:32.79, 0:05:34.94, Default, {\c&H32CD9A&}Rogue_Monro_{\c&HFFFFFF&}: MmmHmm x⁣4
 Dialogue: 0:05:34.26, 0:05:36.84, Default, {\c&HFFFFFF&}DharmaRaja{\c&HFFFFFF&}: @VoprosKira как всегда на 1000% сделал!
@@ -5855,7 +5855,7 @@ Dialogue: 1:18:47.76, 1:18:50.79, Default, {\c&HFF0000&}HippopoThanos{\c&HFFFFFF
 Dialogue: 1:18:49.44, 1:18:51.78, Default, {\c&H0000FF&}mvii_makslao{\c&HFFFFFF&}: кубики сегодня будут ?)
 ; Dialogue: 1:18:51.38, 1:18:53.45, Default, {\c&HFFFFFF&}barabahka1107{\c&HFFFFFF&}: ! icq
 Dialogue: 1:18:51.58, 1:18:54.40, Default, {\c&H008000&}DrakulaNaich{\c&HFFFFFF&}: Еву погромче, плохо её слышно по сравнению с \Nостальными
-; Dialogue: 1:18:51.82, 1:18:54.82, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NDoritosChip TheIlluminati DoritosChip TheIlluminati x⁣2 \NDoritosChip
+Dialogue: 1:18:51.82, 1:18:54.82, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: \NDoritosChip TheIlluminati DoritosChip TheIlluminati x⁣2 \NDoritosChip
 Dialogue: 1:18:55.33, 1:18:57.42, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: popCat
 Dialogue: 1:18:58.80, 1:19:01.59, Default, {\c&H7FFF00&}AzumaHill{\c&HFFFFFF&}: @BlackUFA Зима холодна одинокий Артур чистит снег \NLUL
 ; Dialogue: 1:18:59.57, 1:19:01.63, Default, {\c&H20A5DA&}cakeprinciple{\c&HFFFFFF&}: !icq
@@ -12435,7 +12435,7 @@ Dialogue: 2:57:17.50, 2:57:19.60, Default, {\c&H32CD9A&}Rogue_Monro_{\c&HFFFFFF&
 Dialogue: 2:57:17.65, 2:57:20.02, Default, {\c&H0000FF&}RobedBroom7661{\c&HFFFFFF&}: привет всем bufaCoolStory
 Dialogue: 2:57:20.44, 2:57:22.57, Default, {\c&HFF901E&}SiberianBlackBerry{\c&HFFFFFF&}: лягонечко
 Dialogue: 2:57:25.29, 2:57:27.60, Default, {\c&HFFFFFF&}demus_24{\c&HFFFFFF&}: Артур был предателем?
-; Dialogue: 2:57:25.33, 2:57:28.17, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AgileVivaciousTaroNerfRedBlaster
+Dialogue: 2:57:25.33, 2:57:28.17, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AgileVivaciousTaroNerfRedBlaster
 Dialogue: 2:57:25.62, 2:57:27.71, Default, {\c&H7FFF00&}RayDayBlade{\c&HFFFFFF&}: WORMS!
 Dialogue: 2:57:28.05, 2:57:30.36, Default, {\c&H0000FF&}Dedulka_DED{\c&HFFFFFF&}: Witch it!!! @BlackUFA
 Dialogue: 2:57:30.92, 2:57:33.13, Default, {\c&H0045FF&}klim_urk{\c&HFFFFFF&}: значит в вормс

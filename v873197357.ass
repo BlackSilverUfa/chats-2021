@@ -15776,7 +15776,7 @@ Dialogue: 5:11:48.54, 5:11:51.14, Default, {\c&H32CD9A&}sova_svetka{\c&HFFFFFF&}
 Dialogue: 5:11:48.65, 5:11:51.20, Default, {\c&HFFFFFF&}AlexBroadus{\c&HFFFFFF&}: Блин, а эту бню вообще можно сломать?
 Dialogue: 5:11:49.38, 5:11:51.72, Default, {\c&H7FFF00&}ATATA_OTEC{\c&HFFFFFF&}: Привет Артур, как дела?
 Dialogue: 5:11:49.94, 5:11:52.34, Default, {\c&HFFFFFF&}vladiskor_tw{\c&HFFFFFF&}: Давненько экшончика не было
-; Dialogue: 5:11:51.12, 5:11:53.94, Default, {\c&H20A5DA&}KarishaArchitect{\c&HFFFFFF&}: \NpepeJAM FluteTime peepoJAMMER GuitarTime killerSolo x⁣3
+Dialogue: 5:11:51.12, 5:11:53.94, Default, {\c&H20A5DA&}KarishaArchitect{\c&HFFFFFF&}: \NpepeJAM FluteTime peepoJAMMER GuitarTime killerSolo x⁣3
 Dialogue: 5:11:51.32, 5:11:53.87, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: @BlackUFA Держать удар PurpleStar x⁣3
 Dialogue: 5:11:51.44, 5:11:53.54, Default, {\c&HFFFFFF&}Zyamba2{\c&HFFFFFF&}: раунд 2
 Dialogue: 5:11:52.98, 5:11:55.52, Default, {\c&HB469FF&}Van_Serfer{\c&HFFFFFF&}: Хук слева, справа, апперкот, троечка
@@ -17004,7 +17004,7 @@ Dialogue: 5:44:54.79, 5:44:56.95, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFF
 Dialogue: 5:44:55.86, 5:44:58.02, Default, {\c&H20A5DA&}Pango_lin{\c&HFFFFFF&}: ChickenRave
 Dialogue: 5:44:56.01, 5:44:58.13, Default, {\c&HFFFFFF&}ribelllion{\c&HFFFFFF&}: говорил*
 Dialogue: 5:44:56.43, 5:44:58.82, Default, {\c&H008000&}kiddykaan{\c&HFFFFFF&}: пьяный батя опять на врыве
-; Dialogue: 5:44:58.57, 5:45:01.39, Default, {\c&H20A5DA&}KarishaArchitect{\c&HFFFFFF&}: \NpepeJAM FluteTime peepoJAMMER GuitarTime killerSolo x⁣3
+Dialogue: 5:44:58.57, 5:45:01.39, Default, {\c&H20A5DA&}KarishaArchitect{\c&HFFFFFF&}: \NpepeJAM FluteTime peepoJAMMER GuitarTime killerSolo x⁣3
 ; Dialogue: 5:44:59.07, 5:45:01.56, Default, {\c&HB469FF&}lexginger{\c&HFFFFFF&}: !кусь @Ochen_Krasiviy_Lis еще раз
 ; Dialogue: 5:44:59.32, 5:45:02.73, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @lexginger отлепляет лицо от тарелки с оливье и \Nкусает @ochen_krasiviy_lis за снеговика monkaH
 Dialogue: 5:45:00.98, 5:45:03.13, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: BSUJam x⁣4
@@ -17198,7 +17198,7 @@ Dialogue: 5:47:06.65, 5:47:09.10, Default, {\c&HFFFFFF&}aclomik{\c&HFFFFFF&}: о
 Dialogue: 5:47:06.78, 5:47:09.18, Default, {\c&HFFFFFF&}ray_gonzaglos{\c&HFFFFFF&}: душный как маршрутка в июле
 Dialogue: 5:47:08.14, 5:47:10.78, Default, {\c&HFFFFFF&}zigfrid1991{\c&HFFFFFF&}: этот Левиафан на ангела и Евангелиона похож
 Dialogue: 5:47:08.55, 5:47:10.70, Default, {\c&HFFFFFF&}GT_21{\c&HFFFFFF&}: BSUJam x⁣3
-; Dialogue: 5:47:08.68, 5:47:11.98, Default, {\c&HFF901E&}xeimka{\c&HFFFFFF&}: \NheadBang TaBeRu Jammies KKool headBang TaBeRu Jammies KKool \Nx⁣5 headBang TaBeRu Jammies
+Dialogue: 5:47:08.68, 5:47:11.98, Default, {\c&HFF901E&}xeimka{\c&HFFFFFF&}: \NheadBang TaBeRu Jammies KKool headBang TaBeRu Jammies KKool \Nx⁣5 headBang TaBeRu Jammies
 Dialogue: 5:47:08.70, 5:47:10.85, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}: BSUJam x⁣5
 Dialogue: 5:47:09.34, 5:47:11.73, Default, {\c&HE22B8A&}deadninja{\c&HFFFFFF&}: @virgozavr пасиба bufaLove
 Dialogue: 5:47:09.96, 5:47:12.41, Default, {\c&HE22B8A&}Fatune{\c&HFFFFFF&}: Максимально под музыку, считаю

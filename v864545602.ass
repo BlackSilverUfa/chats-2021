@@ -65,7 +65,7 @@ Dialogue: 0:00:42.86, 0:00:45.08, Default, {\c&H0045FF&}Mereditly{\c&HFFFFFF&}: 
 Dialogue: 0:00:43.97, 0:00:47.03, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: BSUDance Jammies BSUDance Jammies BSUDance Jammi\Nes BSUDance Jammies x⁣3
 Dialogue: 0:00:44.19, 0:00:46.38, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: dogeDance x⁣6
 Dialogue: 0:00:44.22, 0:00:46.52, Default, {\c&H20A5DA&}Voroncliff{\c&HFFFFFF&}: что же сегодня будет
-; Dialogue: 0:00:44.83, 0:00:48.07, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER popCat peepoJAMMER popCat peepoJAMMER x⁣2 \NpopCat peepoJAMMER x⁣2
+Dialogue: 0:00:44.83, 0:00:48.07, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER popCat peepoJAMMER popCat peepoJAMMER x⁣2 \NpopCat peepoJAMMER x⁣2
 Dialogue: 0:00:44.98, 0:00:47.02, Default, {\c&HFFFFFF&}yoroi_gi{\c&HFFFFFF&}: шик
 Dialogue: 0:00:45.02, 0:00:47.18, Default, {\c&H578B2E&}nikoiinka{\c&HFFFFFF&}: Jammies x⁣9
 Dialogue: 0:00:45.36, 0:00:48.48, Default, {\c&HFF901E&}NeuroxiN404{\c&HFFFFFF&}: Jammies popCat headBang Jammies popCat headBang \Nx⁣2 Jammies popCat headBang
@@ -94,12 +94,12 @@ Dialogue: 0:00:58.16, 0:01:00.38, Default, {\c&HFFFFFF&}Kvout_{\c&HFFFFFF&}: В�
 Dialogue: 0:00:58.20, 0:01:00.38, Default, {\c&HFFFFFF&}Funriri{\c&HFFFFFF&}: bufaLove x⁣3
 ; Dialogue: 0:00:58.32, 0:01:01.19, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @ckatenok -> Не капси, я в танке горел, я дурак. \N[warning]
 ; Dialogue: 0:00:59.27, 0:01:01.84, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: !кусь @Black_Stas ResidentSleeper x⁣10
-; Dialogue: 0:00:59.36, 0:01:02.27, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3
+Dialogue: 0:00:59.36, 0:01:02.27, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3
 ; Dialogue: 0:00:59.57, 0:01:02.84, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @kilka_v_domkrate допивает какао peepoCocoa и \Nкусает @black_stas за леденец pepeSmack
 Dialogue: 0:01:00.68, 0:01:04.88, Default, {\c&H0000FF&}Pupalzen{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDa\Nnce peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance
 Dialogue: 0:01:01.13, 0:01:03.31, Default, {\c&HFFFFFF&}yastremskiy_{\c&HFFFFFF&}: Он идееет!!!
 Dialogue: 0:01:01.58, 0:01:06.19, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave Jammies
-; Dialogue: 0:01:01.94, 0:01:05.29, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3 popCat peepoJAMMER peepoClap
+Dialogue: 0:01:01.94, 0:01:05.29, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3 popCat peepoJAMMER peepoClap
 ; Dialogue: 0:01:02.66, 0:01:05.53, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming Just \NChatting: VR PogChamp
 Dialogue: 0:01:03.15, 0:01:05.25, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: Jammies
 Dialogue: 0:01:05.11, 0:01:07.27, Default, {\c&HFFFFFF&}hitrojopiy_krolik{\c&HFFFFFF&}: popCat x⁣16
@@ -109,7 +109,7 @@ Dialogue: 0:01:09.32, 0:01:11.63, Default, {\c&HFFFFFF&}johny_noxvil{\c&HFFFFFF&
 Dialogue: 0:01:10.84, 0:01:12.96, Default, {\c&HFFFFFF&}Funriri{\c&HFFFFFF&}: bufa4221
 Dialogue: 0:01:12.19, 0:01:16.68, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance\N peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave
 Dialogue: 0:01:13.76, 0:01:17.96, Default, {\c&H2222B2&}sistent{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDan\Nce peepoRun popCat ChickenRave Jammies x⁣4 BSUDance peepoRun \NpopCat ChickenRave Jammies BSUDance
-; Dialogue: 0:01:15.47, 0:01:19.99, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: \NpopCat Jammies BSUDance popCat Jammies BSUDance x⁣2 popCat \NJammies BSUDance Jammies BSUDance popCat Jammies BSUDance po\NpCat Jammies BSUDance popCat x⁣2 Jammies BSUDance
+Dialogue: 0:01:15.47, 0:01:19.99, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: \NpopCat Jammies BSUDance popCat Jammies BSUDance x⁣2 popCat \NJammies BSUDance Jammies BSUDance popCat Jammies BSUDance po\NpCat Jammies BSUDance popCat x⁣2 Jammies BSUDance
 Dialogue: 0:01:16.61, 0:01:19.97, Default, {\c&H008000&}HeadVi{\c&HFFFFFF&}: zululDrums pepeSmack zululDrums pepeSmack zululDrums\N pepeSmack x⁣2 zululDrums pepeSmack x⁣2
 Dialogue: 0:01:17.31, 0:01:19.46, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: peepoCocoa
 Dialogue: 0:01:18.85, 0:01:21.37, Default, {\c&H507FFF&}mifion_nyan{\c&HFFFFFF&}: Чатик, я так скучала! peepoSnow x⁣3
@@ -136,7 +136,7 @@ Dialogue: 0:01:31.88, 0:01:36.20, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @
 Dialogue: 0:01:32.45, 0:01:34.64, Default, {\c&HFFFFFF&}dmitry_xanax{\c&HFFFFFF&}: Ну как обычно
 Dialogue: 0:01:32.86, 0:01:34.98, Default, {\c&HFF0000&}artaslayt{\c&HFFFFFF&}: BSUDance
 Dialogue: 0:01:33.17, 0:01:35.32, Default, {\c&HA09E5F&}TanyaReyder{\c&HFFFFFF&}: привет чат
-; Dialogue: 0:01:33.72, 0:01:36.63, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3
+Dialogue: 0:01:33.72, 0:01:36.63, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣3
 Dialogue: 0:01:35.02, 0:01:37.54, Default, {\c&H2222B2&}Arastan{\c&HFFFFFF&}: Что с музыкой, она словно в слоумо?
 Dialogue: 0:01:35.64, 0:01:38.81, Default, {\c&H7FFF00&}FractalCucumber{\c&HFFFFFF&}: @TheDrHax ну крутотень, спасибо за инфу, я \Nпривык, да есть просадки в качестве
 Dialogue: 0:01:37.28, 0:01:39.47, Default, {\c&HFFFFFF&}aqkyn{\c&HFFFFFF&}: peepoSnow x⁣7
@@ -151,7 +151,7 @@ Dialogue: 0:01:39.08, 0:01:41.53, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 0:01:39.41, 0:01:41.66, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: TheIlluminati x⁣3
 Dialogue: 0:01:39.71, 0:01:41.90, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: BibleThump <3
 Dialogue: 0:01:41.39, 0:01:43.64, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: CatoPog pepeSmack
-; Dialogue: 0:01:41.48, 0:01:44.83, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣2 popCat peepoJAMMER peepoClap
+Dialogue: 0:01:41.48, 0:01:44.83, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NpopCat peepoJAMMER peepoClap popCat peepoJAMMER peepoClap \Nx⁣2 popCat peepoJAMMER peepoClap
 Dialogue: 0:01:42.66, 0:01:44.88, Default, {\c&H0000FF&}nstasikova{\c&HFFFFFF&}: Jammies Jammies
 Dialogue: 0:01:43.33, 0:01:45.85, Default, {\c&HE22B8A&}t0tAL_Twitch{\c&HFFFFFF&}: даже заставка опоздала))) на неделю
 Dialogue: 0:01:44.30, 0:01:48.50, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDa\Nnce peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance
@@ -183,7 +183,7 @@ Dialogue: 0:01:55.71, 0:01:58.77, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: 
 Dialogue: 0:01:55.82, 0:01:58.48, Default, {\c&H008000&}Vector_GS{\c&HFFFFFF&}: ага, подмазывается за опоздание))) LuvHearts
 Dialogue: 0:01:56.04, 0:01:58.52, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: popCat peepoJAMMER peepoClap x⁣3
 Dialogue: 0:01:56.78, 0:01:59.29, Default, {\c&HFFFFFF&}edbeta777{\c&HFFFFFF&}: кста с рождеством чач и стримлера!
-; Dialogue: 0:01:57.49, 0:02:00.85, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: \NJammies popCat BSUDance Jammies popCat BSUDance x⁣2 popCat \NBSUDance Jammies popCat BSUDance
+Dialogue: 0:01:57.49, 0:02:00.85, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: \NJammies popCat BSUDance Jammies popCat BSUDance x⁣2 popCat \NBSUDance Jammies popCat BSUDance
 Dialogue: 0:01:57.78, 0:02:00.08, Default, {\c&HE22B8A&}dyxrom{\c&HFFFFFF&}: Картоха любви! Kappa
 Dialogue: 0:01:58.35, 0:02:01.44, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @FractalCucumber, ALVR бесплатный и часто \Nобновляется, если что SeemsGood
 Dialogue: 0:01:59.24, 0:02:01.42, Default, {\c&H32CD9A&}R7A7W7{\c&HFFFFFF&}: PogChamp x⁣3
@@ -235,7 +235,7 @@ Dialogue: 0:02:27.83, 0:02:29.96, Default, {\c&H32CD9A&}Psycho_Maddy{\c&HFFFFFF&
 Dialogue: 0:02:28.30, 0:02:30.78, Default, {\c&HE22B8A&}dyxrom{\c&HFFFFFF&}: @tanyareyder, С рождеством тоже.
 Dialogue: 0:02:29.27, 0:02:31.37, Default, {\c&HE22B8A&}fiipend0{\c&HFFFFFF&}: MEGALUL
 Dialogue: 0:02:30.93, 0:02:35.42, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance\N peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave
-; Dialogue: 0:02:31.23, 0:02:34.53, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
+Dialogue: 0:02:31.23, 0:02:34.53, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
 Dialogue: 0:02:31.70, 0:02:33.88, Default, {\c&HFF0000&}homahoma228{\c&HFFFFFF&}: bufaLove x⁣6
 Dialogue: 0:02:31.70, 0:02:36.32, Default, {\c&HB469FF&}faradeus_game{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave Jammies.
 Dialogue: 0:02:31.80, 0:02:34.56, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Squid1 bleedPurple TheIlluminati bleedPurple \NSquid4
@@ -292,12 +292,12 @@ Dialogue: 0:02:58.06, 0:03:02.67, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFF
 Dialogue: 0:02:58.60, 0:03:01.23, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: чат натанцевал вот это вот)всегда работает
 Dialogue: 0:02:58.62, 0:03:00.92, Default, {\c&H7FFF00&}Ikar94{\c&HFFFFFF&}: опоздал, получается?
 Dialogue: 0:02:59.76, 0:03:02.19, Default, {\c&HFFFFFF&}kakoy1to1chelovek{\c&HFFFFFF&}: PogChamp'a нет BibleThump x⁣3
-; Dialogue: 0:02:59.80, 0:03:03.10, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
+Dialogue: 0:02:59.80, 0:03:03.10, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
 Dialogue: 0:03:00.80, 0:03:02.89, Default, {\c&HE22B8A&}artem_againer{\c&HFFFFFF&}: bufaUL
 Dialogue: 0:03:02.29, 0:03:04.63, Default, {\c&HFF901E&}Chockolapka{\c&HFFFFFF&}: А кто делал оформление?
 Dialogue: 0:03:02.91, 0:03:07.52, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance\N peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave Jammies
 Dialogue: 0:03:02.99, 0:03:05.57, Default, {\c&HE22B8A&}Pokobor{\c&HFFFFFF&}: Стрим начнётся через 20 минут, проверяй
-; Dialogue: 0:03:03.44, 0:03:06.74, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3 \NBSUJam peepoJAMMER BSUDance
+Dialogue: 0:03:03.44, 0:03:06.74, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3 \NBSUJam peepoJAMMER BSUDance
 Dialogue: 0:03:04.61, 0:03:08.99, Default, {\c&H008000&}HeadVi{\c&HFFFFFF&}: OkayChamping zululDrums POGGERS OkayChamping \NMonkaChiken PianoTime OkayChamping OkayChamping zululDrums \NPOGGERS OkayChamping MonkaChiken PianoTime OkayChamping
 Dialogue: 0:03:04.78, 0:03:06.88, Default, {\c&HFF901E&}MoyaBulochka{\c&HFFFFFF&}: Jammies
 Dialogue: 0:03:04.83, 0:03:07.89, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: BSUDance Jammies BSUDance Jammies BSUDance Jammi\Nes BSUDance Jammies x⁣3
@@ -337,7 +337,7 @@ Dialogue: 0:03:27.45, 0:03:31.76, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFF
 Dialogue: 0:03:28.11, 0:03:30.29, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: BSUDance x⁣5
 Dialogue: 0:03:28.13, 0:03:30.31, Default, {\c&HFFFFFF&}backstab63{\c&HFFFFFF&}: Kreygasm x⁣5
 Dialogue: 0:03:28.45, 0:03:33.09, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: : peepoRun popCat ChickenRave Jammies BSUDan\Nce peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave Jammies
-; Dialogue: 0:03:28.57, 0:03:31.45, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3
+Dialogue: 0:03:28.57, 0:03:31.45, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3
 Dialogue: 0:03:29.07, 0:03:33.27, Default, {\c&HFF901E&}BUeBU_{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDanc\Ne peepoRun popCat ChickenRave Jammies x⁣4 BSUDance peepoRun \NpopCat ChickenRave Jammies BSUDance
 Dialogue: 0:03:29.40, 0:03:33.92, Default, {\c&HFFFFFF&}hitrojopiy_krolik{\c&HFFFFFF&}: : peepoRun popCat ChickenRave Jammies BSU\NDance peepoRun popCat ChickenRave Jammies BSUDance x⁣4 \NpeepoRun popCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave
 Dialogue: 0:03:29.55, 0:03:31.80, Default, {\c&H4343D5&}Yukioru_K{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣3
@@ -363,7 +363,7 @@ Dialogue: 0:03:38.94, 0:03:43.43, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFF
 Dialogue: 0:03:39.72, 0:03:42.50, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: Squid1 TheIlluminati Squid4 x⁣2 TheIlluminati \NSquid4
 Dialogue: 0:03:39.81, 0:03:41.99, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: <3 x⁣5 Kappa
 Dialogue: 0:03:39.99, 0:03:42.35, Default, {\c&HB469FF&}Tolsto_Jopik{\c&HFFFFFF&}: Привет, Артур!!!!!!!!!!!
-; Dialogue: 0:03:39.99, 0:03:43.29, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
+Dialogue: 0:03:39.99, 0:03:43.29, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣2 \NBSUJam peepoJAMMER BSUDance
 Dialogue: 0:03:40.64, 0:03:42.79, Default, {\c&H008000&}Roorm{\c&HFFFFFF&}: Датствуйте
 Dialogue: 0:03:41.00, 0:03:43.12, Default, {\c&H578B2E&}Self121_Kan{\c&HFFFFFF&}: PogChamp
 Dialogue: 0:03:41.10, 0:03:45.71, Default, {\c&H32CD9A&}R7A7W7{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance peepoRu\Nn popCat ChickenRave Jammies BSUDance x⁣4 peepoRun popCat \NChickenRave Jammies BSUDance peepoRun popCat ChickenRave \NJammies
@@ -388,7 +388,7 @@ Dialogue: 0:03:50.50, 0:03:53.32, Default, {\c&HE22B8A&}Pokobor{\c&HFFFFFF&}: Б
 Dialogue: 0:03:50.68, 0:03:53.11, Default, {\c&HA09E5F&}TanyaReyder{\c&HFFFFFF&}: Squid1 Squid2 SabaPing Squid4
 Dialogue: 0:03:51.04, 0:03:53.29, Default, {\c&H2222B2&}Arastan{\c&HFFFFFF&}: Чат здесь власть!
 Dialogue: 0:03:52.16, 0:03:54.22, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: PogU
-; Dialogue: 0:03:52.28, 0:03:55.34, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NBSUDance Jammies BSUDance Jammies BSUDance Jammies x⁣3 \NBSUDance Jammies
+Dialogue: 0:03:52.28, 0:03:55.34, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NBSUDance Jammies BSUDance Jammies BSUDance Jammies x⁣3 \NBSUDance Jammies
 Dialogue: 0:03:52.47, 0:03:54.89, Default, {\c&H0045FF&}karcist_limon{\c&HFFFFFF&}: вот это туса bufaBobchan x⁣3
 Dialogue: 0:03:53.02, 0:03:55.56, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: здравствуй любимый стримлер Kreygasm
 Dialogue: 0:03:53.26, 0:03:56.23, Default, {\c&HFF0000&}mr_nonsab{\c&HFFFFFF&}: bleedPurple Squid1 Squid2 TheIlluminati Squid2 \NSquid4 bleedPurple
@@ -607,7 +607,7 @@ Dialogue: 0:06:01.49, 0:06:04.28, Default, {\c&H20A5DA&}Bird396{\c&HFFFFFF&}: Т
 Dialogue: 0:06:02.67, 0:06:05.79, Default, {\c&HFFFFFF&}escvpe_1{\c&HFFFFFF&}: оооооо ну приветики - с глубины Сенпай поднимался \N- но медленно) <3 TakeNRG
 Dialogue: 0:06:02.98, 0:06:05.26, Default, {\c&HFFFFFF&}zhitomir{\c&HFFFFFF&}: Шооооооооо,медаль?)
 Dialogue: 0:06:03.13, 0:06:05.44, Default, {\c&H008000&}ruhling4ever{\c&HFFFFFF&}: куккускланики чад LUL
-; Dialogue: 0:06:08.04, 0:06:10.92, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3
+Dialogue: 0:06:08.04, 0:06:10.92, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: \NBSUJam peepoJAMMER BSUDance BSUJam peepoJAMMER BSUDance x⁣3
 Dialogue: 0:06:09.85, 0:06:11.91, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: KEKW
 Dialogue: 0:06:11.20, 0:06:14.22, Default, {\c&HE22B8A&}Pokobor{\c&HFFFFFF&}: @blackufa а если Чисто запустить заставку на 3 часа \N- твич забанит ?
 Dialogue: 0:06:11.95, 0:06:14.34, Default, {\c&H0045FF&}Enile_{\c&HFFFFFF&}: @black_stas, peepoLoveXmas
@@ -3178,7 +3178,7 @@ Dialogue: 0:23:45.53, 0:23:47.78, Default, {\c&HFF0000&}empirCassidv{\c&HFFFFFF&
 Dialogue: 0:23:47.18, 0:23:49.75, Default, {\c&H20A5DA&}Sudden_V{\c&HFFFFFF&}: Вынь-всунь, иногда помогает. pepeSmack
 Dialogue: 0:23:47.83, 0:23:50.19, Default, {\c&HFFFFFF&}maxfominykh{\c&HFFFFFF&}: вставил не той стороной!
 Dialogue: 0:23:48.21, 0:23:52.37, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: BSUDance ChickenRave peepoJAMMER PETTHEAPTEEPO\N BSUDance ChickenRave peepoJAMMER PETTHEAPTEEPO x⁣3 BSUDance \NChickenRave peepoJAMMER PETTHEAPTEEPO
-; Dialogue: 0:23:48.66, 0:23:51.78, Default, {\c&HFF901E&}AToMix777{\c&HFFFFFF&}: \NJammies BSUDance Jammies BSUDance Jammies BSUDance x⁣2 \NJammies BSUDance x⁣2
+Dialogue: 0:23:48.66, 0:23:51.78, Default, {\c&HFF901E&}AToMix777{\c&HFFFFFF&}: \NJammies BSUDance Jammies BSUDance Jammies BSUDance x⁣2 \NJammies BSUDance x⁣2
 Dialogue: 0:23:49.09, 0:23:53.16, Default, {\c&H2222B2&}watariki{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDa\Nnce peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies
 Dialogue: 0:23:50.22, 0:23:52.70, Default, {\c&HFFFFFF&}Taz__53{\c&HFFFFFF&}: нас 2800! с нами женщины и дети!
 Dialogue: 0:23:51.87, 0:23:56.07, Default, {\c&H2222B2&}Hamchenko{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUD\Nance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance
@@ -3218,7 +3218,7 @@ Dialogue: 0:24:26.29, 0:24:28.45, Default, {\c&H0000FF&}Tester7{\c&HFFFFFF&}: So
 Dialogue: 0:24:26.51, 0:24:30.71, Default, {\c&H32CD9A&}gooseflying{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BS\NUDance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance
 Dialogue: 0:24:28.06, 0:24:30.24, Default, {\c&HE22B8A&}slepingta{\c&HFFFFFF&}: плотно встал
 Dialogue: 0:24:28.58, 0:24:30.74, Default, {\c&HFFFFFF&}paley39880{\c&HFFFFFF&}: TPFufun x⁣3
-; Dialogue: 0:24:28.87, 0:24:31.69, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣3
+Dialogue: 0:24:28.87, 0:24:31.69, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣3
 Dialogue: 0:24:29.50, 0:24:33.81, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDanc\Ne peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat
 Dialogue: 0:24:31.04, 0:24:35.27, Default, {\c&HFF0000&}wizz77_xd{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUD\Nance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies BSUDance .
 Dialogue: 0:24:31.56, 0:24:33.71, Default, {\c&HFFFFFF&}denis009meow{\c&HFFFFFF&}: жду и верю
@@ -3231,7 +3231,7 @@ Dialogue: 0:24:37.04, 0:24:41.24, Default, {\c&H32CD9A&}da_shick{\c&HFFFFFF&}: B
 Dialogue: 0:24:37.12, 0:24:41.07, Default, {\c&H0000FF&}itirik_kyocka{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies \NBSUDance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave
 Dialogue: 0:24:37.25, 0:24:39.46, Default, {\c&HFFFFFF&}kostarinorg{\c&HFFFFFF&}: че с голосом ?
 Dialogue: 0:24:37.27, 0:24:39.75, Default, {\c&H4343D5&}Yukioru_K{\c&HFFFFFF&}: @BlackUFA А USB выйдет погулять?
-; Dialogue: 0:24:38.71, 0:24:41.53, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
+Dialogue: 0:24:38.71, 0:24:41.53, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
 Dialogue: 0:24:39.36, 0:24:42.18, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: "Неважно какой стороной вставлять" - говорили \Nони Kappa
 Dialogue: 0:24:39.85, 0:24:42.09, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: Встал gachiSANTA
 Dialogue: 0:24:42.43, 0:24:44.77, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&}: плотно встал RiasSenpai
@@ -3247,7 +3247,7 @@ Dialogue: 0:24:50.47, 0:24:52.62, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFF
 ; Dialogue: 0:24:50.81, 0:24:52.88, Default, {\c&H0000FF&}Unf1tS{\c&HFFFFFF&}: !time
 ; Dialogue: 0:24:51.03, 0:24:53.75, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 25 minutes 1 second
 Dialogue: 0:24:52.91, 0:24:57.40, Default, {\c&H20A5DA&}MR_CHERNII_KOT{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BSUDance\N peepoRun popCat ChickenRave Jammies BSUDance x⁣4 peepoRun \NpopCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave
-; Dialogue: 0:24:54.19, 0:24:57.01, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
+Dialogue: 0:24:54.19, 0:24:57.01, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
 ; Dialogue: 0:24:54.83, 0:24:57.85, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Archer AX73 от TP-Link со скидкой 1100 рублей: \Nhttps://clck.ru/SixaN
 Dialogue: 0:24:55.07, 0:24:57.35, Default, {\c&H578B2E&}ChemleXVl{\c&HFFFFFF&}: осень плотно всталь
 Dialogue: 0:24:55.48, 0:24:58.29, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: BSUDance BSUFlex BSUDance BSUFlex x⁣2 BSUDance \NBSUFlex
@@ -3390,7 +3390,7 @@ Dialogue: 0:27:10.87, 0:27:13.77, Default, {\c&HC2128F&}Black_Stas{\c&HFFFFFF&}:
 Dialogue: 0:27:11.09, 0:27:13.13, Default, {\c&HFFFFFF&}TFATG{\c&HFFFFFF&}: ало
 Dialogue: 0:27:11.39, 0:27:13.81, Default, {\c&H1E69D2&}Gibonich{\c&HFFFFFF&}: обновили драйвера называется
 Dialogue: 0:27:11.39, 0:27:16.00, Default, {\c&HFF901E&}knight_of_dragon_oak{\c&HFFFFFF&}: peepoRun popCat ChickenRave Jammies BS\NUDance peepoRun popCat ChickenRave Jammies BSUDance x⁣4 \NpeepoRun popCat ChickenRave Jammies BSUDance peepoRun popCat \NChickenRave Jammies
-; Dialogue: 0:27:12.35, 0:27:15.19, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: \NBSUFlex BSUDance Jammies popCat ChickenRave headBang x⁣3
+Dialogue: 0:27:12.35, 0:27:15.19, Default, {\c&HFFFFFF&}temnik99{\c&HFFFFFF&}: \NBSUFlex BSUDance Jammies popCat ChickenRave headBang x⁣3
 Dialogue: 0:27:13.26, 0:27:16.38, Default, {\c&HFFFFFF&}lila_licht{\c&HFFFFFF&}: Мы ждём, пока Артур сделает вещи. Для тех, кто \Nне понимает, что происходит.
 Dialogue: 0:27:15.68, 0:27:17.78, Default, {\c&HFF901E&}luminous_muffin{\c&HFFFFFF&}: дратути
 Dialogue: 0:27:17.11, 0:27:19.38, Default, {\c&H20A5DA&}KOTxBop4yH{\c&HFFFFFF&}: 2020SpeakUp UnSane
@@ -3463,7 +3463,7 @@ Dialogue: 0:28:42.10, 0:28:44.35, Default, {\c&H0045FF&}Egorisonja{\c&HFFFFFF&}:
 Dialogue: 0:28:44.18, 0:28:46.25, Default, {\c&HFFFFFF&}human2015{\c&HFFFFFF&}: магия
 Dialogue: 0:28:45.95, 0:28:48.26, Default, {\c&H7FFF00&}dark_eastwood{\c&HFFFFFF&}: А где звук? Звук где?
 Dialogue: 0:28:46.22, 0:28:50.42, Default, {\c&HFFFFFF&}TFATG{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies BSUDance\N peepoRun popCat ChickenRave Jammies x⁣4 BSUDance peepoRun \NpopCat ChickenRave Jammies BSUDance
-; Dialogue: 0:28:46.39, 0:28:49.21, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
+Dialogue: 0:28:46.39, 0:28:49.21, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: \NheadBang dogeDance peepoJAMMER ChickenRave BSUDance x⁣4
 Dialogue: 0:28:46.66, 0:28:50.73, Default, {\c&HFFFFFF&}dimonpokimon4ik{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammie\Ns BSUDance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies
 Dialogue: 0:28:49.17, 0:28:51.51, Default, {\c&H008000&}k21hu{\c&HFFFFFF&}: ...но её как бы нет LUL
 Dialogue: 0:28:50.13, 0:28:54.20, Default, {\c&H0000FF&}aaaa_nya_is_kb{\c&HFFFFFF&}: BSUDance peepoRun popCat ChickenRave Jammies\N BSUDance peepoRun popCat ChickenRave Jammies x⁣4 BSUDance \NpeepoRun popCat ChickenRave Jammies
@@ -4784,7 +4784,7 @@ Dialogue: 0:44:09.35, 0:44:11.86, Default, {\c&H0000FF&}darth_imperiius{\c&HFFFF
 Dialogue: 0:44:09.54, 0:44:11.67, Default, {\c&H008000&}D_a_S_h_A_K98{\c&HFFFFFF&}: пес шпион
 Dialogue: 0:44:11.50, 0:44:14.07, Default, {\c&HFFFFFF&}DharmaRaja{\c&HFFFFFF&}: Омериканские СС, очевидно же @BlackUFA
 Dialogue: 0:44:11.75, 0:44:14.15, Default, {\c&H0000FF&}Mental_Massacre{\c&HFFFFFF&}: @irlandskayakyrochka, бз бз
-; Dialogue: 0:44:11.93, 0:44:14.72, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ImpartialThirstyPangolinANELE
+Dialogue: 0:44:11.93, 0:44:14.72, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/ImpartialThirstyPangolinANELE
 Dialogue: 0:44:12.01, 0:44:14.19, Default, {\c&HFFFFFF&}blumbpum{\c&HFFFFFF&}: всем привет)
 Dialogue: 0:44:12.10, 0:44:14.88, Default, {\c&H20A5DA&}IrlandskayaKyrochka{\c&HFFFFFF&}: @Shaverrrma у меня лапки после \Nвчерашнего, мне можно
 Dialogue: 0:44:14.18, 0:44:16.24, Default, {\c&H7FFF00&}bashkaevtwch{\c&HFFFFFF&}: ЛУЦК

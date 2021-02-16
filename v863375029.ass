@@ -4765,7 +4765,7 @@ Dialogue: 1:54:20.10, 1:54:22.23, Default, {\c&HE22B8A&}Virgozavr{\c&HFFFFFF&}: 
 Dialogue: 1:54:20.86, 1:54:22.96, Default, {\c&H507FFF&}Altair2018{\c&HFFFFFF&}: Привет!
 Dialogue: 1:54:25.11, 1:54:27.33, Default, {\c&H0000FF&}Dedulka_DED{\c&HFFFFFF&}: скушай обезьяну
 Dialogue: 1:54:26.42, 1:54:29.24, Default, {\c&HFF0000&}Noisy_RU{\c&HFFFFFF&}: @BlackUFA, Я думал ты Дашу заставлял на базе \Nубираться)
-; Dialogue: 1:54:31.70, 1:54:34.54, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AbrasiveTenderPuffinRiPepperonis
+Dialogue: 1:54:31.70, 1:54:34.54, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AbrasiveTenderPuffinRiPepperonis
 Dialogue: 1:54:36.24, 1:54:38.76, Default, {\c&H7FFF00&}TheBigFatAnaconda{\c&HFFFFFF&}: zdelai xren' dlya poiska materyalav
 Dialogue: 1:54:39.52, 1:54:41.61, Default, {\c&HFFFFFF&}alearnor{\c&HFFFFFF&}: кушать
 Dialogue: 1:54:41.81, 1:54:44.93, Default, {\c&HB469FF&}teslasave{\c&HFFFFFF&}: Я видел как там было 100 энергии а теперь 99, она \Nже па-да-ет loliTriggered
@@ -6462,7 +6462,7 @@ Dialogue: 2:38:15.01, 2:38:17.08, Default, {\c&HFFFFFF&}ATARY124{\c&HFFFFFF&}: �
 Dialogue: 2:38:15.14, 2:38:17.42, Default, {\c&HFFFFFF&}coffmaniac{\c&HFFFFFF&}: И я ничего не видел
 Dialogue: 2:38:15.85, 2:38:18.09, Default, {\c&HFFFFFF&}svyatoi_medoed{\c&HFFFFFF&}: подписка каждому
 Dialogue: 2:38:17.50, 2:38:19.62, Default, {\c&H2222B2&}kloos97{\c&HFFFFFF&}: вон вход
-; Dialogue: 2:38:18.57, 2:38:21.35, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/BusyFurryGazelleCharlieBitMe
+Dialogue: 2:38:18.57, 2:38:21.35, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/BusyFurryGazelleCharlieBitMe
 Dialogue: 2:38:21.18, 2:38:23.39, Default, {\c&HFFFFFF&}WetDirtySatan{\c&HFFFFFF&}: Опять Дед орёт
 Dialogue: 2:38:22.21, 2:38:24.54, Default, {\c&H0000FF&}aleninskiyeu{\c&HFFFFFF&}: не та дырка KappaPride
 Dialogue: 2:38:24.79, 2:38:26.91, Default, {\c&HFFFFFF&}johny_noxvil{\c&HFFFFFF&}: bufa4221
@@ -10112,7 +10112,7 @@ Dialogue: 4:10:10.91, 4:10:13.39, Default, {\c&H7FFF00&}villermont{\c&HFFFFFF&}:
 Dialogue: 4:10:12.59, 4:10:14.98, Default, {\c&H0000FF&}skripton999{\c&HFFFFFF&}: 4 краба и бабушкин кальмар
 Dialogue: 4:10:41.02, 4:10:43.54, Default, {\c&H32CD9A&}daretusaengus{\c&HFFFFFF&}: @BlackUFA Что делать если я свинец?
 Dialogue: 4:10:46.90, 4:10:49.47, Default, {\c&HB469FF&}JmixM{\c&HFFFFFF&}: 3 свинца, 2 сетчитых волокна, пласталь
-; Dialogue: 4:10:47.15, 4:10:49.88, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CleanSmoothNostrilPRChase
+Dialogue: 4:10:47.15, 4:10:49.88, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CleanSmoothNostrilPRChase
 Dialogue: 4:10:51.35, 4:10:53.44, Default, {\c&H0045FF&}Ugryumych{\c&HFFFFFF&}: BSUJam
 Dialogue: 4:10:52.09, 4:10:54.21, Default, {\c&HE22B8A&}Keelah_selai_{\c&HFFFFFF&}: ля какие
 Dialogue: 4:10:53.28, 4:10:56.01, Default, {\c&HFFFFFF&}svyatoi_medoed{\c&HFFFFFF&}: помнишь, как мы Вилсона освобождали от \Nпоплавков?

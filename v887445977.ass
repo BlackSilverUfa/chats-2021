@@ -520,7 +520,7 @@ Dialogue: 0:06:08.91, 0:06:11.42, Default, {\c&HFFFFFF&}TorgarGames{\c&HFFFFFF&}
 Dialogue: 0:06:09.94, 0:06:12.19, Default, {\c&HFFFFFF&}sqwidvordd{\c&HFFFFFF&}: HolidayCookie x⁣3
 Dialogue: 0:06:10.74, 0:06:13.47, Default, {\c&HE22B8A&}BlackInvadep{\c&HFFFFFF&}: @blackufa Куда кидать ссылку на трейлер \NГодзилла?
 Dialogue: 0:06:11.40, 0:06:13.61, Default, {\c&H32CD9A&}AnastasiyaWolf{\c&HFFFFFF&}: peepoBeatSaber
-; Dialogue: 0:06:14.26, 0:06:17.08, Default, {\c&H7FFF00&}FractalCucumber{\c&HFFFFFF&}: \NBSUDance peepoAttack БУНД BSUDance peepoAttack БУНД x⁣3
+Dialogue: 0:06:14.26, 0:06:17.08, Default, {\c&H7FFF00&}FractalCucumber{\c&HFFFFFF&}: \NBSUDance peepoAttack БУНД BSUDance peepoAttack БУНД x⁣3
 Dialogue: 0:06:14.45, 0:06:16.70, Default, {\c&HE22B8A&}Enthariel{\c&HFFFFFF&}: FeelsSnowyMan x⁣3
 Dialogue: 0:06:14.74, 0:06:16.93, Default, {\c&HE22B8A&}Raccato{\c&HFFFFFF&}: FeelsSnowyMan
 Dialogue: 0:06:15.06, 0:06:17.19, Default, {\c&HFF0000&}yarnys{\c&HFFFFFF&}: peepoSnow
@@ -7081,7 +7081,7 @@ Dialogue: 1:29:58.11, 1:30:00.80, Default, {\c&HFFFFFF&}vikrend{\c&HFFFFFF&}: @B
 Dialogue: 1:30:01.89, 1:30:04.17, Default, {\c&H0000FF&}baatezu_corneus{\c&HFFFFFF&}: бита для попы : )))
 Dialogue: 1:30:02.19, 1:30:04.34, Default, {\c&HE22B8A&}Kilana_Nerenel{\c&HFFFFFF&}: Kojimaptyp
 Dialogue: 1:30:02.59, 1:30:05.35, Default, {\c&H0000FF&}so1eus{\c&HFFFFFF&}: @BlackUFA В записях красный глаз - это фильтр вещей
-; Dialogue: 1:30:05.90, 1:30:08.72, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/GiantTiredCoyoteNerfBlueBlaster
+Dialogue: 1:30:05.90, 1:30:08.72, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/GiantTiredCoyoteNerfBlueBlaster
 Dialogue: 1:30:08.75, 1:30:11.42, Default, {\c&HFFFFFF&}beetlefairy{\c&HFFFFFF&}: А маньяк свободно перемещается или по сюжету?
 ; Dialogue: 1:30:12.80, 1:30:16.51, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Обычный донат - 100 руб/битов | Голосовой донат - \N500 руб/битов | Аццкий донат - 666 руб | ОСОБЫЙ ДОНАТ - 4221 \Nруб
 Dialogue: 1:30:14.44, 1:30:16.93, Default, {\c&HFF0000&}reardrive{\c&HFFFFFF&}: Спирит бокс - радиоприёмник вроде
@@ -7091,7 +7091,7 @@ Dialogue: 1:30:17.90, 1:30:20.77, Default, {\c&H7FFF00&}Dimka_m23{\c&HFFFFFF&}: 
 Dialogue: 1:30:18.07, 1:30:20.56, Default, {\c&HFF901E&}Lawresk{\c&HFFFFFF&}: Ghostbox это твоё радио @BlackUFA
 Dialogue: 1:30:23.57, 1:30:25.81, Default, {\c&HB469FF&}hisplashy{\c&HFFFFFF&}: го в шкаф BSUStr
 Dialogue: 1:30:30.26, 1:30:32.38, Default, {\c&HFF901E&}chtulhuinlovecraft{\c&HFFFFFF&}: имелась*
-; Dialogue: 1:30:32.01, 1:30:34.80, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/KitschyEmpathicWatermelonBIRB
+Dialogue: 1:30:32.01, 1:30:34.80, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/KitschyEmpathicWatermelonBIRB
 Dialogue: 1:30:36.76, 1:30:38.86, Default, {\c&HFFFFFF&}mrc0rtes{\c&HFFFFFF&}: херкало
 Dialogue: 1:30:39.93, 1:30:42.06, Default, {\c&HFF901E&}Pixie_Djin{\c&HFFFFFF&}: monkaWipe
 Dialogue: 1:30:40.63, 1:30:42.81, Default, {\c&H20A5DA&}RDammz20{\c&HFFFFFF&}: хто-то дышит
@@ -8377,7 +8377,7 @@ Dialogue: 1:48:11.28, 1:48:13.64, Default, {\c&H0000FF&}maikeru_stranger{\c&HFFF
 Dialogue: 1:48:13.04, 1:48:15.17, Default, {\c&HFF901E&}SpacePixelSnow{\c&HFFFFFF&}: monkaStop
 Dialogue: 1:48:13.12, 1:48:15.39, Default, {\c&H7FFF00&}Seth_Lesath{\c&HFFFFFF&}: радева забрали LUL
 Dialogue: 1:48:14.09, 1:48:16.31, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: Чат не матерись
-; Dialogue: 1:48:15.03, 1:48:17.85, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CorrectCoweringEggplantCurseLit
+Dialogue: 1:48:15.03, 1:48:17.85, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CorrectCoweringEggplantCurseLit
 Dialogue: 1:48:16.56, 1:48:19.01, Default, {\c&HFFFFFF&}DharmaRaja{\c&HFFFFFF&}: Радиву унёс, ирод проклятушший
 Dialogue: 1:48:16.73, 1:48:19.13, Default, {\c&H7FFF00&}Infraider{\c&HFFFFFF&}: Цитаты Аптыпа: "Ыаыааааыы!"
 Dialogue: 1:48:16.93, 1:48:19.27, Default, {\c&HB469FF&}solgara_true{\c&HFFFFFF&}: в комнате с манекенами?
@@ -8667,7 +8667,7 @@ Dialogue: 1:54:16.79, 1:54:19.19, Default, {\c&HFFFFFF&}bbelka{\c&HFFFFFF&}: @Fe
 Dialogue: 1:54:19.96, 1:54:22.77, Default, {\c&H7FFF00&}tarhankut{\c&HFFFFFF&}: если бы вместо Маи была Таня,то прятался бы уже \NДжимми
 Dialogue: 1:54:20.99, 1:54:23.12, Default, {\c&HFFFFFF&}funny11cupcake{\c&HFFFFFF&}: бежииииим
 Dialogue: 1:54:23.22, 1:54:25.52, Default, {\c&HFFFFFF&}frosmok{\c&HFFFFFF&}: симуляция коммуналки
-; Dialogue: 1:54:24.76, 1:54:27.54, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/QuaintPiercingCattleRuleFive
+Dialogue: 1:54:24.76, 1:54:27.54, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/QuaintPiercingCattleRuleFive
 Dialogue: 1:54:26.92, 1:54:29.43, Default, {\c&HB469FF&}solgara_true{\c&HFFFFFF&}: а он может в лифте тебя застукать?
 Dialogue: 1:54:26.94, 1:54:29.00, Default, {\c&H2222B2&}Rekongstor{\c&HFFFFFF&}: Алло
 Dialogue: 1:54:27.52, 1:54:30.31, Default, {\c&HFFFFFF&}chuk_and_gek{\c&HFFFFFF&}: ты крутишься - компас не вращается... что-то \Nне то...
@@ -10137,7 +10137,7 @@ Dialogue: 2:25:20.64, 2:25:22.95, Default, {\c&HFFFFFF&}chuk_and_gek{\c&HFFFFFF&
 Dialogue: 2:25:21.83, 2:25:24.34, Default, {\c&HFFFFFF&}kamijqk{\c&HFFFFFF&}: рыцарь убил девочку, дело раскрыто
 Dialogue: 2:25:22.02, 2:25:24.77, Default, {\c&H0000FF&}Elis_Brilliant{\c&HFFFFFF&}: возле рыцаря может мечь как раз тот есть \N@BlackUFA
 Dialogue: 2:25:23.84, 2:25:26.20, Default, {\c&H0045FF&}DefaultHowler{\c&HFFFFFF&}: CoolStoryBob x⁣4 LUL LUL
-; Dialogue: 2:25:24.48, 2:25:27.26, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CorrectZanyRhinocerosGivePLZ
+Dialogue: 2:25:24.48, 2:25:27.26, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/CorrectZanyRhinocerosGivePLZ
 Dialogue: 2:25:25.74, 2:25:28.14, Default, {\c&H578B2E&}letzzzgetiton{\c&HFFFFFF&}: @BlackUFA где рыцарь - меч?
 Dialogue: 2:25:28.82, 2:25:30.97, Default, {\c&HFFFFFF&}derpy_278{\c&HFFFFFF&}: ичОиЧочО?!
 Dialogue: 2:25:31.51, 2:25:33.67, Default, {\c&H20A5DA&}Angeraime{\c&HFFFFFF&}: peepoAttack
@@ -11777,7 +11777,7 @@ Dialogue: 2:57:13.91, 2:57:16.10, Default, {\c&HFFFFFF&}momorin_chan{\c&HFFFFFF&
 Dialogue: 2:57:14.88, 2:57:17.01, Default, {\c&HE22B8A&}Maria_Romano{\c&HFFFFFF&}: monkaEyes
 Dialogue: 2:57:16.20, 2:57:18.60, Default, {\c&H0045FF&}DefaultHowler{\c&HFFFFFF&}: LUL LUL bufaScary bufaScary
 Dialogue: 2:57:16.98, 2:57:19.14, Default, {\c&HFFFFFF&}ararat92{\c&HFFFFFF&}: шо за игра?
-; Dialogue: 2:57:17.08, 2:57:19.92, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/YawningImportantDiamondPermaSmug
+Dialogue: 2:57:17.08, 2:57:19.92, Default, {\c&HFF901E&}GraciSL{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/YawningImportantDiamondPermaSmug
 Dialogue: 2:57:17.20, 2:57:19.48, Default, {\c&HFFFFFF&}heykarin{\c&HFFFFFF&}: bufaScary bufaScary
 Dialogue: 2:57:17.28, 2:57:19.59, Default, {\c&H0000FF&}DeimosRus{\c&HFFFFFF&}: должно быть это ветер
 Dialogue: 2:57:17.54, 2:57:19.67, Default, {\c&H1DBE9B&}aire_19{\c&HFFFFFF&}: monkaEyes

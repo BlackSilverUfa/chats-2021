@@ -1811,7 +1811,7 @@ Dialogue: 0:23:18.85, 0:23:21.18, Default, {\c&H578B2E&}Fess8659{\c&HFFFFFF&}: @
 Dialogue: 0:23:20.63, 0:23:22.79, Default, {\c&HFFFFFF&}Kinni_Winni{\c&HFFFFFF&}: ыаааааыыыаа
 ; Dialogue: 0:23:21.13, 0:23:23.73, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @nik_tyrell, у вас 68 ICQ DANKHACKERMANS
 Dialogue: 0:23:21.81, 0:23:24.57, Default, {\c&H876645&}Umetsu_rin{\c&HFFFFFF&}: Всем добрый вечер, Аптиша, чатик! LuvSign \N@blackufa
-; Dialogue: 0:23:21.87, 0:23:24.68, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NANYA artgamesOmg ANYA artgamesOmg ANYA artgamesOmg x⁣3
+Dialogue: 0:23:21.87, 0:23:24.68, Default, {\c&H7FFF00&}perrrrkele{\c&HFFFFFF&}: \NANYA artgamesOmg ANYA artgamesOmg ANYA artgamesOmg x⁣3
 Dialogue: 0:23:21.89, 0:23:25.21, Default, {\c&H32CD9A&}desssee{\c&HFFFFFF&}: @dark_eastwood Я в тот момент не думала. Просто \Nсхватила и пошла, а оказалось вкусно то)
 ; Dialogue: 0:23:21.95, 0:23:24.01, Default, {\c&HFFFFFF&}roma_finch{\c&HFFFFFF&}: !icq
 ; Dialogue: 0:23:22.38, 0:23:25.02, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @roma_finch, у вас 147 ICQ (+22) Kojimaptyp
@@ -10893,7 +10893,7 @@ Dialogue: 2:28:30.53, 2:28:32.65, Default, {\c&H0045FF&}Mayhem924{\c&HFFFFFF&}: 
 Dialogue: 2:28:31.41, 2:28:33.96, Default, {\c&HFFFFFF&}plastic_finger{\c&HFFFFFF&}: так гарри - это арториас в молодости?
 Dialogue: 2:28:32.02, 2:28:34.24, Default, {\c&HFFFFFF&}zeeffot{\c&HFFFFFF&}: игра орет капец
 Dialogue: 2:28:34.50, 2:28:36.69, Default, {\c&HFFFFFF&}mishutka_ne_shutka{\c&HFFFFFF&}: bufaHcrab x⁣5
-; Dialogue: 2:28:35.63, 2:28:38.53, Default, {\c&HFFFFFF&}maksstrider{\c&HFFFFFF&}: \NbufaPressFbufaPressFbufaPressFbufaPressFbufaPressFbufaPressF
+Dialogue: 2:28:35.63, 2:28:38.53, Default, {\c&HFFFFFF&}maksstrider{\c&HFFFFFF&}: \NbufaPressFbufaPressFbufaPressFbufaPressFbufaPressFbufaPressF
 Dialogue: 2:28:37.35, 2:28:39.74, Default, {\c&HFFFFFF&}russkii_perec{\c&HFFFFFF&}: да это спидран практически
 Dialogue: 2:28:44.22, 2:28:46.28, Default, {\c&HFFFFFF&}sasgav{\c&HFFFFFF&}: орет
 Dialogue: 2:28:44.75, 2:28:46.96, Default, {\c&HFFFFFF&}maksstrider{\c&HFFFFFF&}: bufaPressF x⁣5
@@ -11924,7 +11924,7 @@ Dialogue: 2:34:25.17, 2:34:27.36, Default, {\c&H0000FF&}dimonpokimon4ik{\c&HFFFF
 Dialogue: 2:34:26.61, 2:34:28.89, Default, {\c&HFFFFFF&}Kinni_Winni{\c&HFFFFFF&}: PETTHECAT PETTHECAT
 Dialogue: 2:34:27.35, 2:34:29.47, Default, {\c&H578B2E&}Akulz{\c&HFFFFFF&}: кошенька
 Dialogue: 2:34:27.82, 2:34:30.16, Default, {\c&H0000FF&}cyber__punk2077{\c&HFFFFFF&}: <3 x⁣4 artgamesLove x⁣7
-; Dialogue: 2:34:27.92, 2:34:30.67, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/GoodSpunkyWoodpeckerOpieOP
+Dialogue: 2:34:27.92, 2:34:30.67, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/GoodSpunkyWoodpeckerOpieOP
 Dialogue: 2:34:28.81, 2:34:31.18, Default, {\c&HFF901E&}Shine_Brilliance{\c&HFFFFFF&}: dechartTheoo dechartTheoo
 Dialogue: 2:34:28.93, 2:34:31.12, Default, {\c&H008000&}D_a_S_h_A_K98{\c&HFFFFFF&}: тоооооооооося
 Dialogue: 2:34:29.75, 2:34:31.94, Default, {\c&HA09E5F&}ewoks_army{\c&HFFFFFF&}: PETTHECAT x⁣3
@@ -12548,7 +12548,7 @@ Dialogue: 2:41:09.95, 2:41:12.13, Default, {\c&HFFFFFF&}CoffeeGG88{\c&HFFFFFF&}:
 Dialogue: 2:41:10.53, 2:41:12.65, Default, {\c&HFF901E&}SiberianBlackBerry{\c&HFFFFFF&}: ни папал
 Dialogue: 2:41:11.47, 2:41:13.63, Default, {\c&HB469FF&}esmlin{\c&HFFFFFF&}: LuvSign x⁣9
 Dialogue: 2:41:12.44, 2:41:14.86, Default, {\c&HFFFFFF&}arsyushkin{\c&HFFFFFF&}: cmonBruh cmonBruh KappaClaus
-; Dialogue: 2:41:13.15, 2:41:16.54, Default, {\c&H008000&}iggip{\c&HFFFFFF&}: \NBUFASleeper MedTime BSUWasted BUFASleeper MedTime BSUWasted \Nx⁣2 BUFASleeper MedTime BSUWasted
+Dialogue: 2:41:13.15, 2:41:16.54, Default, {\c&H008000&}iggip{\c&HFFFFFF&}: \NBUFASleeper MedTime BSUWasted BUFASleeper MedTime BSUWasted \Nx⁣2 BUFASleeper MedTime BSUWasted
 Dialogue: 2:41:13.41, 2:41:15.72, Default, {\c&HFF901E&}irikost{\c&HFFFFFF&}: BSUWasted Jammies x⁣4
 Dialogue: 2:41:14.11, 2:41:16.83, Default, {\c&H578B2E&}ChemleXVl{\c&HFFFFFF&}: Гарри, покажи, где Хагрид тебя трогал BSUTrolled
 Dialogue: 2:41:14.57, 2:41:16.76, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: GlitchLit x⁣4
@@ -17403,7 +17403,7 @@ Dialogue: 4:05:53.87, 4:05:56.32, Default, {\c&H20A5DA&}ferfet{\c&HFFFFFF&}: @Bl
 Dialogue: 4:05:53.93, 4:05:56.05, Default, {\c&H008000&}nezateynik{\c&HFFFFFF&}: IndiCorn
 Dialogue: 4:05:54.47, 4:05:56.56, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: popCat
 Dialogue: 4:05:54.56, 4:05:56.75, Default, {\c&HFFFFFF&}lakenotocean{\c&HFFFFFF&}: Вот и челендж
-; Dialogue: 4:05:54.72, 4:05:57.56, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AbnegateFaintPrariedogTBTacoLeft
+Dialogue: 4:05:54.72, 4:05:57.56, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/AbnegateFaintPrariedogTBTacoLeft
 Dialogue: 4:05:54.83, 4:05:57.28, Default, {\c&H2222B2&}Denis10Redis{\c&HFFFFFF&}: BlackUFA,челенж говоришь???)))
 Dialogue: 4:05:54.83, 4:05:57.14, Default, {\c&H0000FF&}Caeli_Caelestis{\c&HFFFFFF&}: А вот и горение Kappa
 Dialogue: 4:05:54.86, 4:05:57.02, Default, {\c&HFF0000&}v88di{\c&HFFFFFF&}: чем пахнет?
@@ -17895,7 +17895,7 @@ Dialogue: 4:14:01.66, 4:14:03.76, Default, {\c&HFFFFFF&}koss129{\c&HFFFFFF&}: LU
 Dialogue: 4:14:01.79, 4:14:04.66, Default, {\c&H008000&}pigeonincap{\c&HFFFFFF&}: @aquarickman, за случайно банят отчаянно, всё \NOkayChamping
 Dialogue: 4:14:01.96, 4:14:04.09, Default, {\c&HFFFFFF&}JVentreska {\c&HFFFFFF&}: Мномхмнох
 Dialogue: 4:14:04.17, 4:14:06.35, Default, {\c&HFFFFFF&}fuyrenn{\c&HFFFFFF&}: Откуда это?!
-; Dialogue: 4:14:04.68, 4:14:07.58, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/UninterestedPunchyGuanacoGrammarKing
+Dialogue: 4:14:04.68, 4:14:07.58, Default, {\c&H20A5DA&}Sir_Leonid1199{\c&HFFFFFF&}: \Nhttps://clips.twitch.tv/UninterestedPunchyGuanacoGrammarKing
 Dialogue: 4:14:05.28, 4:14:08.03, Default, {\c&H0000FF&}Caeli_Caelestis{\c&HFFFFFF&}: Наконец-то Поттер не орёт заклинания \NFeelsWeirdMan
 Dialogue: 4:14:06.10, 4:14:09.06, Default, {\c&HFF901E&}dragon_rider1017{\c&HFFFFFF&}: В детстве - это место в игре было самое \Nстрёмное WutFace HahaCat
 Dialogue: 4:14:11.81, 4:14:13.97, Default, {\c&HFF901E&}AssassinEzio499{\c&HFFFFFF&}: пук-пук-пук
