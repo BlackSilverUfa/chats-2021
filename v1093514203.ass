@@ -1,0 +1,423 @@
+[Script Info]
+PlayResX: 1280
+PlayResY: 720
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default, Arial, 18, 16777215, 16777215, 16777215, -3221225464, 0, 0, 1, 3, 0, 1, 5, 0, 5, 0, 0
+
+[Events]
+Format: Start, End, Style, Text
+Dialogue: 0:00:09.96, 0:00:12.15, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: PETTHEAPTEEPO
+Dialogue: 0:00:10.04, 0:00:12.17, Default, {\c&HFFFFFF&}mojopro1{\c&HFFFFFF&}: ооо робит
+Dialogue: 0:00:10.05, 0:00:12.09, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: ура
+Dialogue: 0:00:10.15, 0:00:12.37, Default, {\c&H0000FF&}ep_rst{\c&HFFFFFF&}: ooooooooooooooo
+Dialogue: 0:00:10.71, 0:00:13.04, Default, {\c&H7FFF00&}Kot9br{\c&HFFFFFF&}: 54 манула и стрим ожил
+Dialogue: 0:00:10.72, 0:00:12.79, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: Живем
+Dialogue: 0:00:13.22, 0:00:15.26, Default, {\c&HFFFFFF&}cora_san23{\c&HFFFFFF&}: ооо
+Dialogue: 0:00:13.76, 0:00:15.88, Default, {\c&H008000&}PiroNice{\c&HFFFFFF&}: ураааааа
+Dialogue: 0:00:14.44, 0:00:16.69, Default, {\c&H7FFF00&}matatame{\c&HFFFFFF&}: PogChamp PogChamp
+; Dialogue: 0:00:14.51, 0:00:16.90, Default, {\c&H0000FF&}dorivamp{\c&HFFFFFF&}: !шар какая у меня вмятина?
+Dialogue: 0:00:14.86, 0:00:17.01, Default, {\c&H7FFF00&}hokins{\c&HFFFFFF&}: PauseChamp
+; Dialogue: 0:00:15.03, 0:00:17.67, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @dorivamp, скажу за небольшую сумму, BSUDAI
+Dialogue: 0:00:16.55, 0:00:18.62, Default, {\c&H507FFF&}zephyr_tyan{\c&HFFFFFF&}: Алло?
+Dialogue: 0:00:16.61, 0:00:18.74, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: peepoClap
+Dialogue: 0:00:18.94, 0:00:21.24, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: и пол года не прошло
+Dialogue: 0:00:20.73, 0:00:23.19, Default, {\c&HFF901E&}Vaja72{\c&HFFFFFF&}: только зашел, секунда в секунду
+Dialogue: 0:00:21.74, 0:00:24.10, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: Играешь так! Идёшь туда!
+Dialogue: 0:00:22.29, 0:00:24.44, Default, {\c&HFFFFFF&}azrads{\c&HFFFFFF&}: 55 манулов
+Dialogue: 0:00:22.40, 0:00:24.55, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Ура выжили
+Dialogue: 0:00:22.76, 0:00:24.86, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: BBoomer
+Dialogue: 0:00:23.65, 0:00:25.84, Default, {\c&HFFFFFF&}fieryward{\c&HFFFFFF&}: оно живо! POG
+Dialogue: 0:00:23.96, 0:00:26.12, Default, {\c&H32CD9A&}EriasK{\c&HFFFFFF&}: peepoArrive
+Dialogue: 0:00:24.44, 0:00:27.01, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: Опять запись склеивать ResidentSleeper
+Dialogue: 0:00:24.53, 0:00:26.72, Default, {\c&HFF0000&}leela_lo{\c&HFFFFFF&}: PETTHEAPTEEPO
+Dialogue: 0:00:26.29, 0:00:28.36, Default, {\c&H0000FF&}salo_c_myasom{\c&HFFFFFF&}: живой
+Dialogue: 0:00:26.43, 0:00:29.12, Default, {\c&HFFFFFF&}siber365{\c&HFFFFFF&}: 55 манулов Он вернулся на 55 мануале @blackufa
+Dialogue: 0:00:27.20, 0:00:29.42, Default, {\c&HFF0000&}pizza_s_coloy{\c&HFFFFFF&}: 54 манула тащат
+Dialogue: 0:00:32.81, 0:00:34.94, Default, {\c&HFFFFFF&}goginyablackovna{\c&HFFFFFF&}: пачиниль?
+; Dialogue: 0:00:34.46, 0:00:36.49, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: !р
+Dialogue: 0:00:34.63, 0:00:36.69, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: Kapp
+Dialogue: 0:00:35.07, 0:00:37.32, Default, {\c&HFFFFFF&}mojopro1{\c&HFFFFFF&}: востал из мёртвых
+Dialogue: 0:00:36.00, 0:00:38.28, Default, {\c&HA09E5F&}eidesent{\c&HFFFFFF&}: peepoClap peepoClap
+Dialogue: 0:00:36.09, 0:00:38.34, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣6
+Dialogue: 0:00:36.14, 0:00:38.98, Default, {\c&H7FFF00&}Kot9br{\c&HFFFFFF&}: из-за того что стрим падает можно больше поинтов \Nвливать
+Dialogue: 0:00:36.73, 0:00:38.95, Default, {\c&H1E69D2&}Ulf_Hednar{\c&HFFFFFF&}: Ура, картиночка
+Dialogue: 0:00:37.12, 0:00:39.27, Default, {\c&H0000FF&}RedMarsel{\c&HFFFFFF&}: 56 манулов
+Dialogue: 0:00:39.83, 0:00:41.86, Default, {\c&HFFFFFF&}mojopro1{\c&HFFFFFF&}: ))
+Dialogue: 0:00:40.55, 0:00:42.80, Default, {\c&HFFFFFF&}KIR_CORE{\c&HFFFFFF&}: bufaDonAptypo x⁣3
+Dialogue: 0:00:41.91, 0:00:44.04, Default, {\c&H0045FF&}Snezhulka{\c&HFFFFFF&}: peepoClap
+; Dialogue: 0:00:42.00, 0:00:44.15, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: !поползень
+; Dialogue: 0:00:42.26, 0:00:45.04, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @fluffycrabby, в тихом поползне блохи водятся \NpopCat
+Dialogue: 0:00:44.32, 0:00:46.60, Default, {\c&H0045FF&}evillemon0{\c&HFFFFFF&}: дратути HeyGuys x⁣3
+Dialogue: 0:00:45.65, 0:00:47.72, Default, {\c&H2222B2&}vkusnetskiy_kolbass{\c&HFFFFFF&}: Урааа
+Dialogue: 0:00:45.83, 0:00:47.93, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: KEKWait
+Dialogue: 0:00:46.11, 0:00:48.45, Default, {\c&H578B2E&}hillagarma{\c&HFFFFFF&}: о, чат, живем SeemsGood
+Dialogue: 0:00:47.24, 0:00:49.33, Default, {\c&H32CD9A&}lesnoyshibzdik{\c&HFFFFFF&}: Pepega
+Dialogue: 0:00:47.56, 0:00:49.69, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: CatCrying
+Dialogue: 0:00:49.74, 0:00:52.07, Default, {\c&HFFFFFF&}kesshat{\c&HFFFFFF&}: Ну привет, сексуальцы!
+Dialogue: 0:00:51.30, 0:00:53.40, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: KEKWait
+Dialogue: 0:00:54.81, 0:00:56.96, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: PauseChamp
+; Dialogue: 0:00:56.32, 0:00:58.47, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: !поползень
+; Dialogue: 0:00:56.58, 0:00:59.25, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @lissskin22, дворника поползень кормит popCat
+Dialogue: 0:00:57.02, 0:00:59.17, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:00:57.53, 0:00:59.66, Default, {\c&H0045FF&}Snezhulka{\c&HFFFFFF&}: bufaScary
+Dialogue: 0:00:58.01, 0:01:00.38, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: NotLikeThis x⁣3 SeemsGood
+Dialogue: 0:00:58.33, 0:01:00.54, Default, {\c&HFF901E&}creme__brulee{\c&HFFFFFF&}: BibleThump x⁣3
+Dialogue: 0:00:58.52, 0:01:00.85, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: BibleThump x⁣3 bufaLUL
+Dialogue: 0:00:58.86, 0:01:01.07, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: PurpleStar x⁣3
+Dialogue: 0:00:59.03, 0:01:01.33, Default, {\c&H7FFF00&}hokins{\c&HFFFFFF&}: чат закидывай манулы
+Dialogue: 0:00:59.11, 0:01:01.21, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: KEKWait
+Dialogue: 0:00:59.22, 0:01:01.35, Default, {\c&H7FFF00&}Kot9br{\c&HFFFFFF&}: CatCrying
+Dialogue: 0:01:00.08, 0:01:02.48, Default, {\c&H7FFF00&}boombadaboom{\c&HFFFFFF&}: вкидываем манулы второй раз
+Dialogue: 0:01:00.75, 0:01:02.84, Default, {\c&H0000FF&}Higatir{\c&HFFFFFF&}: блииин
+Dialogue: 0:01:01.35, 0:01:03.51, Default, {\c&H0045FF&}KirliKi{\c&HFFFFFF&}: FeelsOhWait
+Dialogue: 0:01:02.60, 0:01:04.73, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: CatCrying
+Dialogue: 0:01:03.86, 0:01:06.04, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: FeelsRainMan
+Dialogue: 0:01:04.48, 0:01:06.63, Default, {\c&HFFFFFF&}mini_cheetah{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:01:05.36, 0:01:07.51, Default, {\c&HFFFFFF&}Marzoni{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:01:05.61, 0:01:07.74, Default, {\c&HE22B8A&}Bezerker_1{\c&HFFFFFF&}: bufaScary
+Dialogue: 0:01:05.84, 0:01:08.08, Default, {\c&HFF0000&}pizza_s_coloy{\c&HFFFFFF&}: еее даешь люникс
+; Dialogue: 0:01:06.57, 0:01:08.63, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+; Dialogue: 0:01:07.00, 0:01:09.51, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, у вас 31 ICQ (+4) ANYA
+Dialogue: 0:01:08.56, 0:01:10.86, Default, {\c&HE22B8A&}Mega_Ruina{\c&HFFFFFF&}: а мб пока в хорроры?
+; Dialogue: 0:01:08.81, 0:01:12.52, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Обычный донат - 100 руб/битов | Голосовой донат - \N500 руб/битов | Аццкий донат - 666 руб | ОСОБЫЙ ДОНАТ - 4221 \Nруб
+Dialogue: 0:01:08.92, 0:01:11.07, Default, {\c&HFFFFFF&}Soprano_N{\c&HFFFFFF&}: ставь 7 ку
+Dialogue: 0:01:10.67, 0:01:12.85, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: FeelsRainMan
+Dialogue: 0:01:12.91, 0:01:15.12, Default, {\c&H7FFF00&}babaika_yaga{\c&HFFFFFF&}: BibleThump x⁣5
+Dialogue: 0:01:13.94, 0:01:16.09, Default, {\c&HE22B8A&}Varfalamei3000{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:01:15.37, 0:01:17.52, Default, {\c&HFFFFFF&}Lazy_Hypnobayun{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:01:15.42, 0:01:17.90, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: поиграть а потому переустановить
+Dialogue: 0:01:16.56, 0:01:18.92, Default, {\c&H1E69D2&}Ulf_Hednar{\c&HFFFFFF&}: Над поиграть, получается
+Dialogue: 0:01:17.79, 0:01:20.33, Default, {\c&HFFFFFF&}Vadim0206{\c&HFFFFFF&}: давай стрим как устанавливаешь винду
+Dialogue: 0:01:19.17, 0:01:21.75, Default, {\c&HE22B8A&}Bezerker_1{\c&HFFFFFF&}: Лучше винду - чтоб уже починить наконец
+Dialogue: 0:01:20.02, 0:01:22.15, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: monkaWipe
+Dialogue: 0:01:20.57, 0:01:22.63, Default, {\c&HE22B8A&}MarisICQ{\c&HFFFFFF&}: игру
+Dialogue: 0:01:20.90, 0:01:23.38, Default, {\c&H0000FF&}visarius_{\c&HFFFFFF&}: В прямом эфире переустанавливай)
+Dialogue: 0:01:21.36, 0:01:23.72, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: А можно для повторить???
+Dialogue: 0:01:21.84, 0:01:24.21, Default, {\c&HFFFFFF&}drift40000{\c&HFFFFFF&}: давай лучше переустановка
+Dialogue: 0:01:22.05, 0:01:24.39, Default, {\c&HFF901E&}ALPRO91{\c&HFFFFFF&}: Чини, откладывать плохо
+Dialogue: 0:01:23.71, 0:01:25.92, Default, {\c&H7FFF00&}Vikylia1{\c&HFFFFFF&}: Норм.Чини комп
+Dialogue: 0:01:23.73, 0:01:26.22, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: эх. ну значит спать пойду KEKWait
+Dialogue: 0:01:27.75, 0:01:30.00, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: играааать PIGGIES
+Dialogue: 0:01:31.94, 0:01:34.81, Default, {\c&HFF0000&}DharmaRaja{\c&HFFFFFF&}: План в принцип хорош.. И если поможет, то супер! \N@BlackUFA
+; Dialogue: 0:01:33.54, 0:01:36.66, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: BlackUFA is now live! Streaming The Legend \Nof Zelda: Skyward Sword HD: KEKW
+Dialogue: 0:01:37.06, 0:01:39.25, Default, {\c&HE22B8A&}d33Comrade{\c&HFFFFFF&}: го одну катку
+Dialogue: 0:01:38.61, 0:01:41.07, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: @BlackUFA Чини а потом поиграем
+Dialogue: 0:01:39.08, 0:01:41.62, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @BlackUFA паажи, дай манулов скинуть
+Dialogue: 0:01:39.88, 0:01:42.34, Default, {\c&H578B2E&}hillagarma{\c&HFFFFFF&}: ну получается надо играть Kappa
+Dialogue: 0:01:46.76, 0:01:49.22, Default, {\c&H32CD9A&}BlackFoxSpb{\c&HFFFFFF&}: @BlackUFA Го хоррор гляделку :D
+Dialogue: 0:01:47.19, 0:01:49.50, Default, {\c&H0000FF&}glossaria{\c&HFFFFFF&}: Прощаемся на сегодня?
+Dialogue: 0:01:53.58, 0:01:56.04, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: ЧАЧ НУКА БЫСТРО ВКИДЫВАЙ МАНУЛЫ
+Dialogue: 0:01:55.49, 0:01:57.91, Default, {\c&HFFFFFF&}mini_cheetah{\c&HFFFFFF&}: чини Артурка, мы будем ждать
+Dialogue: 0:01:56.84, 0:01:59.33, Default, {\c&H0000FF&}Shadow_of_Changes{\c&HFFFFFF&}: Артур, все херня, давай по новой)
+Dialogue: 0:02:00.29, 0:02:02.56, Default, {\c&HFFFFFF&}athoel{\c&HFFFFFF&}: чач,заряжай манулы
+Dialogue: 0:02:00.37, 0:02:02.92, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: стрим на буке? и свич винду @BlackUFA
+Dialogue: 0:02:01.59, 0:02:04.34, Default, {\c&H008000&}PiroNice{\c&HFFFFFF&}: @BlackUFA ставь пока на одном, а на другом стримь)
+Dialogue: 0:02:01.61, 0:02:04.19, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: Держись, Аптип @BlackUFA PurpleStar x⁣3
+Dialogue: 0:02:04.66, 0:02:06.88, Default, {\c&HFFFFFF&}subjectalexander{\c&HFFFFFF&}: шо я пропустил?
+Dialogue: 0:02:04.69, 0:02:07.24, Default, {\c&HE22B8A&}MarisICQ{\c&HFFFFFF&}: сначала чат удовлетворить, потом себя
+; Dialogue: 0:02:05.57, 0:02:08.77, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Скидка до 10% на продукцию ASUS для армии 4221! \NПромокод BSU https://u.to/sJAXFw
+Dialogue: 0:02:06.10, 0:02:09.78, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @BlackUFA может CBR 6000K вернуть? Twitch в \Nдокументации пишет, что могут быть разрывы при превышении \NpeepoThink
+Dialogue: 0:02:08.11, 0:02:10.72, Default, {\c&HFFFFFF&}gerr_PA3UJIb{\c&HFFFFFF&}: Может всё же провайдер просто мысли вслух
+Dialogue: 0:02:08.35, 0:02:10.53, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: FeelsRainMan
+Dialogue: 0:02:08.90, 0:02:11.03, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Ох ноооо!
+Dialogue: 0:02:09.75, 0:02:12.14, Default, {\c&HFFFFFF&}Molo4nik42rus{\c&HFFFFFF&}: Мы отчаялись, пришло время
+Dialogue: 0:02:09.80, 0:02:12.34, Default, {\c&H1E69D2&}Ulf_Hednar{\c&HFFFFFF&}: А как вообще снос винды помогает то?
+Dialogue: 0:02:10.46, 0:02:12.56, Default, {\c&HFFFFFF&}sherstyanoy_volchara{\c&HFFFFFF&}: нииииит
+Dialogue: 0:02:11.28, 0:02:13.37, Default, {\c&HFFFFFF&}Gabriellena{\c&HFFFFFF&}: анлаки
+Dialogue: 0:02:13.07, 0:02:15.29, Default, {\c&H0045FF&}AlexanderKufeld{\c&HFFFFFF&}: Манулов кидайте
+Dialogue: 0:02:16.56, 0:02:18.63, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: удачи
+Dialogue: 0:02:19.80, 0:02:22.95, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: Сделай скрины и отправь их, например, Даше в вк, чтобы \Nне потерять настройки.
+Dialogue: 0:02:20.21, 0:02:22.42, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: BibleThump x⁣3
+Dialogue: 0:02:20.99, 0:02:23.54, Default, {\c&HB469FF&}TR0Yz{\c&HFFFFFF&}: я меню винду10 каждые полгода- год =)
+Dialogue: 0:02:22.25, 0:02:24.52, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: чат вливай манулы!
+Dialogue: 0:02:24.78, 0:02:27.05, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: сейвы ток сохран и
+Dialogue: 0:02:25.12, 0:02:27.24, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: манууулы
+Dialogue: 0:02:26.00, 0:02:28.15, Default, {\c&HD0E040&}Mint_Samurai{\c&HFFFFFF&}: bufaPressF
+Dialogue: 0:02:26.25, 0:02:28.31, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: всех
+Dialogue: 0:02:28.25, 0:02:31.91, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: @BlackUFA стараюсь не душить, а пинги не подрубал? \NЧто бы узнать пропадают ли пакеты до: роутера, твича... и тд
+Dialogue: 0:02:31.13, 0:02:34.03, Default, {\c&HE22B8A&}BlackInvadep{\c&HFFFFFF&}: @blackufa А в итоге окажется, что проблема с \Nпровайдером LUL
+Dialogue: 0:02:31.24, 0:02:33.43, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: а то потеряем
+Dialogue: 0:02:32.60, 0:02:34.91, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: А, уже 6000К bufaOops
+Dialogue: 0:02:32.65, 0:02:35.22, Default, {\c&HB469FF&}favtasia{\c&HFFFFFF&}: @BlackUFA может запустишь чату повтор?
+Dialogue: 0:02:34.11, 0:02:36.32, Default, {\c&HFFFFFF&}HeKuT365{\c&HFFFFFF&}: Артурка, удачи
+Dialogue: 0:02:35.16, 0:02:38.00, Default, {\c&HFF0000&}pizza_s_coloy{\c&HFFFFFF&}: как востановишь сделай бекап и потом махом \Nбудешь чинить
+Dialogue: 0:02:39.04, 0:02:41.25, Default, {\c&HFFFFFF&}kamijqk{\c&HFFFFFF&}: в отпуск нужен
+Dialogue: 0:02:44.94, 0:02:47.07, Default, {\c&HFF0000&}StrimanSSSS{\c&HFFFFFF&}: pepeSmack
+Dialogue: 0:02:52.93, 0:02:55.18, Default, {\c&HFF901E&}Bined1220{\c&HFFFFFF&}: Как же сложно все
+Dialogue: 0:02:59.35, 0:03:01.50, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: кринжуем ?
+Dialogue: 0:03:01.71, 0:03:03.81, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: странно
+; Dialogue: 0:03:02.72, 0:03:07.72, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: ● Мой твиттер - twitter.com/Sempai_Black ● Группа \Nв вк - vk.com/b_silver ● Канал - youtube.com/BlackSilverUfa \N● Дополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/ ● Наш сервер в Discord - \Nhttps://discordapp.com/invite/bsndw
+Dialogue: 0:03:04.07, 0:03:06.20, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: pepeSmack
+Dialogue: 0:03:04.46, 0:03:06.67, Default, {\c&HFFFFFF&}Vadim0206{\c&HFFFFFF&}: майнит по ходу
+Dialogue: 0:03:04.50, 0:03:07.08, Default, {\c&HE22B8A&}alexcervato{\c&HFFFFFF&}: Может на призраков посмотрим BloodTrail
+Dialogue: 0:03:07.65, 0:03:10.02, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: Не тянет получается Peka1
+Dialogue: 0:03:09.08, 0:03:11.45, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: кто то майнит с твоего пк
+Dialogue: 0:03:12.57, 0:03:14.81, Default, {\c&H7FFF00&}boombadaboom{\c&HFFFFFF&}: это все нинтендо
+; Dialogue: 0:03:13.08, 0:03:15.14, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+; Dialogue: 0:03:13.59, 0:03:16.10, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, у вас 36 ICQ (+5) ANYA
+Dialogue: 0:03:14.83, 0:03:17.32, Default, {\c&HFFFFFF&}kesshat{\c&HFFFFFF&}: А почему Артур зеленый? Халк тип?
+Dialogue: 0:03:16.69, 0:03:18.78, Default, {\c&HFFFFFF&}mirlett{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:03:24.50, 0:03:26.66, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: FeelsOhWait
+; Dialogue: 0:03:25.84, 0:03:29.71, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: Скачивай RAID: Shadow Legends бесплатно на \NПК или смартфон по моей ссылке и проходи туториал! \Nhttps://strms.net/raid_blackufa
+Dialogue: 0:03:28.04, 0:03:30.17, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: CatCrying
+Dialogue: 0:03:33.01, 0:03:35.70, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Старый видимо уже надо менять (комп, не Артур)
+Dialogue: 0:03:34.00, 0:03:36.13, Default, {\c&HFFFFFF&}throath{\c&HFFFFFF&}: 44 манула
+Dialogue: 0:03:34.49, 0:03:36.91, Default, {\c&H7FFF00&}Kot9br{\c&HFFFFFF&}: это я майню , сейчас отключу
+Dialogue: 0:03:37.38, 0:03:39.90, Default, {\c&HFFFFFF&}athoel{\c&HFFFFFF&}: bufaLove x⁣4 поддержка для стримера
+Dialogue: 0:03:38.33, 0:03:40.99, Default, {\c&H0000FF&}ThomasLP{\c&HFFFFFF&}: может чуть чуть во вчерашнюю игру? @BlackUFA
+Dialogue: 0:03:39.30, 0:03:41.39, Default, {\c&HFFFFFF&}bat_tik11{\c&HFFFFFF&}: привет
+; Dialogue: 0:03:39.82, 0:03:41.89, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: !raid
+; Dialogue: 0:03:40.00, 0:03:43.87, Default, {\c&HFF995B&}StreamElements{\c&HFFFFFF&}: Скачивай RAID: Shadow Legends бесплатно на \NПК или смартфон по моей ссылке и проходи туториал! \Nhttps://strms.net/raid_blackufa
+Dialogue: 0:03:40.43, 0:03:42.52, Default, {\c&HFFFFFF&}nataliazag{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:03:43.13, 0:03:45.62, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: кто-то банит с твоего ПК! bufaLUL
+Dialogue: 0:03:44.13, 0:03:46.55, Default, {\c&H0000FF&}dorivamp{\c&HFFFFFF&}: я майню с его пека BrokeBack
+Dialogue: 0:03:44.26, 0:03:46.89, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: Предполагаю, что @BlackUFA любимый \Nстример
+Dialogue: 0:03:44.74, 0:03:47.29, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: @Kilka_v_Domkrate bufaLove MercyWing2
+Dialogue: 0:03:45.93, 0:03:47.97, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: 110
+Dialogue: 0:03:46.24, 0:03:48.67, Default, {\c&HFF0000&}RZmicier{\c&HFFFFFF&}: Тема майнит с твоего ПК SMOrc
+Dialogue: 0:03:46.60, 0:03:48.96, Default, {\c&HFFFFFF&}KIR_CORE{\c&HFFFFFF&}: Даша майнит с твоего ПК?
+; Dialogue: 0:03:47.68, 0:03:49.74, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+; Dialogue: 0:03:47.96, 0:03:50.92, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, ICQ можно проверять не чаще 1 раза \Nв минуту BUFANerd
+Dialogue: 0:03:50.00, 0:03:52.18, Default, {\c&H008000&}nomad__cry{\c&HFFFFFF&}: bufaLove x⁣8
+Dialogue: 0:03:50.09, 0:03:52.10, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: F
+Dialogue: 0:03:50.63, 0:03:53.32, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: да просто уже реально не понятно что случилось
+Dialogue: 0:03:52.42, 0:03:54.51, Default, {\c&H0000FF&}lgtsnck{\c&HFFFFFF&}: Фризит
+Dialogue: 0:03:53.04, 0:03:55.20, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: подлагивает
+Dialogue: 0:03:53.23, 0:03:55.32, Default, {\c&H32CD9A&}BlackFoxSpb{\c&HFFFFFF&}: Скочит
+Dialogue: 0:03:53.64, 0:03:55.89, Default, {\c&H0000FF&}ep_rst{\c&HFFFFFF&}: теряется прилично
+Dialogue: 0:03:53.65, 0:03:55.74, Default, {\c&HFFFFFF&}great_goodwin{\c&HFFFFFF&}: лагает
+Dialogue: 0:03:54.06, 0:03:56.16, Default, {\c&HFF00FB&}Wild_Zerg{\c&HFFFFFF&}: дёргано
+Dialogue: 0:03:54.77, 0:03:56.92, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: Оу WutFace
+Dialogue: 0:03:55.56, 0:03:57.62, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: рвет
+Dialogue: 0:03:55.78, 0:03:57.82, Default, {\c&H0000FF&}Pacha_na_Apache{\c&HFFFFFF&}: ууу
+Dialogue: 0:03:55.98, 0:03:58.07, Default, {\c&HE22B8A&}belka_pirozhok{\c&HFFFFFF&}: рвётся
+Dialogue: 0:03:56.32, 0:03:58.39, Default, {\c&HE22B8A&}MarisICQ{\c&HFFFFFF&}: фризы
+Dialogue: 0:03:56.38, 0:03:58.53, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Ну фпс 120
+Dialogue: 0:03:57.02, 0:03:59.18, Default, {\c&HFFFFFF&}bq_limbo{\c&HFFFFFF&}: 25 примерно
+Dialogue: 0:03:57.16, 0:03:59.26, Default, {\c&HFFFFFF&}andron4015892{\c&HFFFFFF&}: неочень
+Dialogue: 0:03:57.78, 0:03:59.87, Default, {\c&H1E69D2&}Akumeji{\c&HFFFFFF&}: kfuftn
+Dialogue: 0:03:58.51, 0:04:00.58, Default, {\c&H1E69D2&}Senya_Kaban{\c&HFFFFFF&}: рвано
+Dialogue: 0:03:58.57, 0:04:00.58, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: а
+Dialogue: 0:03:58.94, 0:04:01.04, Default, {\c&H7FFF00&}Kot9br{\c&HFFFFFF&}: терпимо
+Dialogue: 0:03:59.81, 0:04:01.96, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: 15 кадров?
+Dialogue: 0:03:59.88, 0:04:01.89, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: ф
+Dialogue: 0:04:00.01, 0:04:03.24, Default, {\c&H0045FF&}evillemon0{\c&HFFFFFF&}: Мое предположение: ты прогневал богов рандома! \NПокайся @BlackUFA TheIlluminati x⁣3
+Dialogue: 0:04:00.11, 0:04:02.44, Default, {\c&HFFFFFF&}Crey5on{\c&HFFFFFF&}: Сделай себя погоромче!
+Dialogue: 0:04:00.18, 0:04:02.28, Default, {\c&H876645&}Umetsu_rin{\c&HFFFFFF&}: подлаги
+Dialogue: 0:04:01.06, 0:04:03.18, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: теряется
+Dialogue: 0:04:01.44, 0:04:03.57, Default, {\c&HE22B8A&}Bezerker_1{\c&HFFFFFF&}: всё плоха
+Dialogue: 0:04:01.45, 0:04:03.66, Default, {\c&HFF0000&}r38dark{\c&HFFFFFF&}: через раз фриз
+Dialogue: 0:04:01.49, 0:04:03.56, Default, {\c&HFF901E&}Bined1220{\c&HFFFFFF&}: пипец
+Dialogue: 0:04:01.60, 0:04:03.67, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: ОЙ ее
+Dialogue: 0:04:02.29, 0:04:04.42, Default, {\c&H7FFF00&}Vikylia1{\c&HFFFFFF&}: Тормозит\
+Dialogue: 0:04:04.03, 0:04:06.12, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: лагает
+Dialogue: 0:04:04.09, 0:04:06.36, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: Фепес явно маловат
+Dialogue: 0:04:04.67, 0:04:06.86, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: фризы сильные
+Dialogue: 0:04:04.73, 0:04:06.82, Default, {\c&HA09E5F&}pulsar333{\c&HFFFFFF&}: фризит
+Dialogue: 0:04:05.71, 0:04:07.83, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: 9 кадров
+Dialogue: 0:04:05.80, 0:04:08.01, Default, {\c&H7FFF00&}matatame{\c&HFFFFFF&}: FeelsWeirdManW
+Dialogue: 0:04:05.88, 0:04:08.39, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: @albatros128, 2020ByeGuys KPOPlove
+Dialogue: 0:04:06.78, 0:04:08.85, Default, {\c&HFFFFFF&}XAIYI{\c&HFFFFFF&}: рвано
+Dialogue: 0:04:07.00, 0:04:09.28, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: 110 кадров теряется
+Dialogue: 0:04:09.23, 0:04:11.32, Default, {\c&HFF901E&}fomich_na_twitch{\c&HFFFFFF&}: ahbpbn
+Dialogue: 0:04:10.85, 0:04:12.95, Default, {\c&HFFFFFF&}wil_dsunday{\c&HFFFFFF&}: дергано
+Dialogue: 0:04:13.08, 0:04:15.32, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: сильно проседает
+Dialogue: 0:04:13.59, 0:04:15.81, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: Теряются сильно
+Dialogue: 0:04:16.28, 0:04:18.88, Default, {\c&HFFFFFF&}meimur{\c&HFFFFFF&}: Перейти на Линукс ещё не предлагали? LUL
+Dialogue: 0:04:17.13, 0:04:19.32, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: очень дергано
+Dialogue: 0:04:20.98, 0:04:23.34, Default, {\c&H0000FF&}lgtsnck{\c&HFFFFFF&}: Кодек так грузит что ли?
+Dialogue: 0:04:23.33, 0:04:25.42, Default, {\c&HFFFFFF&}Lovereim{\c&HFFFFFF&}: KonCha
+Dialogue: 0:04:23.85, 0:04:26.15, Default, {\c&H7FFF00&}Lipisiin{\c&HFFFFFF&}: чут-чуть спотыкается
+Dialogue: 0:04:29.95, 0:04:32.02, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: во во
+Dialogue: 0:04:30.02, 0:04:32.84, Default, {\c&H0000FF&}salo_c_myasom{\c&HFFFFFF&}: @BlackUFA Может попробывать откатить \Nобновления windows
+Dialogue: 0:04:30.49, 0:04:32.55, Default, {\c&HFFFFFF&}APlonch{\c&HFFFFFF&}: KEKW
+Dialogue: 0:04:32.41, 0:04:36.46, Default, {\c&H32CD9A&}dancer326{\c&HFFFFFF&}: вот я и вернувся в нон сабию, изза некоторой \Nболезни денех чет на карте по нулям вышло раньше времени..но \Nкак только так сразу, @BlackUFA
+; Dialogue: 0:04:35.39, 0:04:37.45, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+; Dialogue: 0:04:35.86, 0:04:38.46, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, у вас 75 ICQ (+39) peepoClap
+Dialogue: 0:04:36.75, 0:04:39.15, Default, {\c&H578B2E&}hillagarma{\c&HFFFFFF&}: компик, не болей BibleThump
+Dialogue: 0:04:40.60, 0:04:42.93, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @meimur, предлагал LUL
+Dialogue: 0:04:46.92, 0:04:49.97, Default, {\c&H008000&}PiroNice{\c&HFFFFFF&}: @BlackUFA главное успей набрать на второй чумодан) \Nнадолго не пропадай
+Dialogue: 0:04:48.08, 0:04:50.90, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: главное о сохрах не забыть и все пк снести хорошая \Nидея
+Dialogue: 0:04:52.17, 0:04:54.90, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: @meimur, некоторый софт не совместим, к сожалению
+Dialogue: 0:04:56.19, 0:04:58.29, Default, {\c&H0000FF&}dorivamp{\c&HFFFFFF&}: BSURage
+Dialogue: 0:04:57.11, 0:04:59.35, Default, {\c&HFF0000&}w3k5ik{\c&HFFFFFF&}: винда лицуха? :D
+Dialogue: 0:04:59.64, 0:05:02.00, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: а если не поможет MonkaW
+Dialogue: 0:05:02.34, 0:05:04.59, Default, {\c&H008000&}crimsonfury{\c&HFFFFFF&}: отфармитаируешь ?
+Dialogue: 0:05:02.48, 0:05:05.27, Default, {\c&HFFFFFF&}Slavaa{\c&HFFFFFF&}: а потом окажется что шнуры надо передёрнуть надо \Nбыло
+Dialogue: 0:05:03.19, 0:05:05.80, Default, {\c&H0000FF&}lgtsnck{\c&HFFFFFF&}: Ну да, самый верный вариант, мне помогало
+Dialogue: 0:05:03.67, 0:05:05.76, Default, {\c&H32CD9A&}zlobnyi_TOPT{\c&HFFFFFF&}: печаль
+; Dialogue: 0:05:04.87, 0:05:08.38, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Покупая игру в Epic Games Store, используй тег \NDATBOY - так часть прибыли пойдет стримеру на печеньки
+Dialogue: 0:05:05.48, 0:05:07.75, Default, {\c&H0000FF&}kilill3783{\c&HFFFFFF&}: Крушиииить BSURage
+Dialogue: 0:05:09.24, 0:05:11.54, Default, {\c&H0000FF&}Slavventiy{\c&HFFFFFF&}: чат тока не удали)))
+Dialogue: 0:05:11.37, 0:05:14.12, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: надо так же со своим сделать, все \Nруки не дойдут..
+Dialogue: 0:05:11.82, 0:05:15.45, Default, {\c&H7FFF00&}nkarp13{\c&HFFFFFF&}: nkarp13 subscribed at Tier 1. They've subscribed \Nfor 24 months! Два годика уже, лю тя(по-гейски) <3 bufaPride
+Dialogue: 0:05:12.47, 0:05:14.95, Default, {\c&HFFFFFF&}Vadim0206{\c&HFFFFFF&}: видео для друга только не удаляй
+Dialogue: 0:05:14.24, 0:05:16.51, Default, {\c&H008000&}zhogolevich{\c&HFFFFFF&}: шоп неподавно пыло
+Dialogue: 0:05:14.74, 0:05:17.14, Default, {\c&H0045FF&}evillemon0{\c&HFFFFFF&}: буду удолять все игры SMOrc
+Dialogue: 0:05:21.15, 0:05:23.84, Default, {\c&HFF0000&}DharmaRaja{\c&HFFFFFF&}: @BlackUFA Сохрани логины и пароли, не забудь )
+Dialogue: 0:05:22.40, 0:05:24.43, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: D:
+Dialogue: 0:05:23.02, 0:05:25.44, Default, {\c&H1E69D2&}Ulf_Hednar{\c&HFFFFFF&}: Главное синхронно делать это
+Dialogue: 0:05:23.50, 0:05:25.80, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: monkaXHD аннигиляция
+Dialogue: 0:05:24.27, 0:05:26.40, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: pepeSmack
+Dialogue: 0:05:31.35, 0:05:33.56, Default, {\c&HFFFFFF&}trouble_some{\c&HFFFFFF&}: нас удаляют =(
+Dialogue: 0:05:34.52, 0:05:36.76, Default, {\c&HFFFFFF&}kellersky{\c&HFFFFFF&}: А проги несущие?
+Dialogue: 0:05:36.84, 0:05:39.02, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: пароль 4221?
+; Dialogue: 0:05:38.90, 0:05:40.96, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+; Dialogue: 0:05:39.42, 0:05:42.02, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, у вас 132 ICQ (+57) Sherlock
+Dialogue: 0:05:45.41, 0:05:47.60, Default, {\c&H0045FF&}KirliKi{\c&HFFFFFF&}: PETTHEAPTEEPO
+Dialogue: 0:05:47.78, 0:05:49.93, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: давно пора
+Dialogue: 0:05:49.40, 0:05:51.68, Default, {\c&HFFFFFF&}meimur{\c&HFFFFFF&}: Даже тут бексит LUL
+Dialogue: 0:05:49.43, 0:05:51.98, Default, {\c&H008000&}PiroNice{\c&HFFFFFF&}: @BlackUFA а когда теперь тебя ждать?)
+Dialogue: 0:05:51.49, 0:05:54.46, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: Хммм, а может попробовать постримить чисто без \Nигры. Чисто вебка.
+Dialogue: 0:05:51.94, 0:05:54.12, Default, {\c&H0045FF&}Serg_Flamefist{\c&HFFFFFF&}: Мы скучали (
+Dialogue: 0:05:53.23, 0:05:55.53, Default, {\c&H7FFF00&}hokins{\c&HFFFFFF&}: аннигиляторная пушка
+Dialogue: 0:05:53.58, 0:05:56.31, Default, {\c&HE22B8A&}BlackInvadep{\c&HFFFFFF&}: @blackufa После сноса винды испытание такое: \NОппа
+Dialogue: 0:05:54.92, 0:05:57.05, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: CatCrying
+Dialogue: 0:05:55.28, 0:05:57.73, Default, {\c&H0000FF&}dorivamp{\c&HFFFFFF&}: рекомендации от чата прекрасны
+Dialogue: 0:05:55.62, 0:05:58.67, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Сделай скриншот паролей и логинов и скинь в \Nгруппу вк что бы не забыть
+Dialogue: 0:05:56.74, 0:05:59.14, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: Переиграй всех там maestroW
+Dialogue: 0:05:57.92, 0:06:00.16, Default, {\c&HFFFFFF&}meimur{\c&HFFFFFF&}: Успехов bufaLove
+Dialogue: 0:05:58.87, 0:06:01.23, Default, {\c&H32CD9A&}BlackFoxSpb{\c&HFFFFFF&}: Скрестим пипеги войны !)
+Dialogue: 0:05:58.99, 0:06:01.71, Default, {\c&HFFFFFF&}fieryward{\c&HFFFFFF&}: а аннигиляторную пушку потом покажешь? @BlackUFA
+Dialogue: 0:06:00.61, 0:06:02.85, Default, {\c&HFFFFFF&}stas_na_chas{\c&HFFFFFF&}: а что случилося?
+Dialogue: 0:06:01.04, 0:06:03.14, Default, {\c&HD0E040&}Mint_Samurai{\c&HFFFFFF&}: bufaHee
+Dialogue: 0:06:01.63, 0:06:03.91, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: а вдруг не поможет?
+Dialogue: 0:06:03.04, 0:06:05.14, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: WutFace
+Dialogue: 0:06:03.26, 0:06:05.45, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: bufaPride x⁣4
+Dialogue: 0:06:04.85, 0:06:07.51, Default, {\c&H0000FF&}lgtsnck{\c&HFFFFFF&}: Пароль от всего 4221, пароль от YT 12345 LUL
+Dialogue: 0:06:05.78, 0:06:08.23, Default, {\c&H7FFF00&}nkarp13{\c&HFFFFFF&}: @BlackUFA Наташа, нас удалили?
+Dialogue: 0:06:06.64, 0:06:08.71, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: удачи
+Dialogue: 0:06:06.82, 0:06:09.15, Default, {\c&H0045FF&}Serg_Flamefist{\c&HFFFFFF&}: Манулов закиньте! Чат!
+Dialogue: 0:06:07.27, 0:06:09.34, Default, {\c&HFFFFFF&}nataliazag{\c&HFFFFFF&}: удачи
+Dialogue: 0:06:09.23, 0:06:11.45, Default, {\c&HFFFFFF&}screampanda123{\c&HFFFFFF&}: удачи в починке
+Dialogue: 0:06:09.87, 0:06:13.19, Default, {\c&HFF901E&}fomich_na_twitch{\c&HFFFFFF&}: @BlackUFA Артур, а в Рейде достаточно \Nлюбой транзакции? Там просто ест за 1 ьакс покупка
+Dialogue: 0:06:10.46, 0:06:12.76, Default, {\c&H0000FF&}djinn737{\c&HFFFFFF&}: надюесь все будет ок
+Dialogue: 0:06:12.25, 0:06:14.71, Default, {\c&HFF0000&}DharmaRaja{\c&HFFFFFF&}: @BlackUFA Удачи в переустановке
+Dialogue: 0:06:12.56, 0:06:14.65, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: <3 x⁣5
+; Dialogue: 0:06:14.17, 0:06:16.59, Default, {\c&HE22B8A&}TheCulmination{\c&HFFFFFF&}: !шар получится всё починить?
+Dialogue: 0:06:14.50, 0:06:16.59, Default, {\c&H0000FF&}flutterjack_dream{\c&HFFFFFF&}: <3 x⁣6
+; Dialogue: 0:06:14.67, 0:06:17.27, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @theculmination, думаю, что да SeemsGood
+Dialogue: 0:06:15.10, 0:06:17.19, Default, {\c&HFF901E&}harunami{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:15.52, 0:06:17.80, Default, {\c&HFF901E&}creme__brulee{\c&HFFFFFF&}: LuvHearts LuvHearts
+Dialogue: 0:06:15.57, 0:06:17.78, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: KappaPride x⁣4
+Dialogue: 0:06:15.78, 0:06:17.91, Default, {\c&H7FFF00&}v_Skai_v{\c&HFFFFFF&}: SeemsGood
+Dialogue: 0:06:15.93, 0:06:18.42, Default, {\c&H20A5DA&}BladeSeva{\c&HFFFFFF&}: удачи, стримлер bufaLove bufaLove
+Dialogue: 0:06:16.14, 0:06:18.71, Default, {\c&H0045FF&}evillemon0{\c&HFFFFFF&}: Судьба - женщина с сюрпризом Kappa x⁣3
+Dialogue: 0:06:16.88, 0:06:19.06, Default, {\c&HFFFFFF&}fieryward{\c&HFFFFFF&}: bufaLove x⁣4
+Dialogue: 0:06:17.48, 0:06:19.90, Default, {\c&HFF0000&}NishaEgira{\c&HFFFFFF&}: Го стрим переустановки винды
+Dialogue: 0:06:18.67, 0:06:21.09, Default, {\c&HFFFFFF&}athoel{\c&HFFFFFF&}: мы тебя тоже любим @BlackUFA
+Dialogue: 0:06:18.83, 0:06:20.93, Default, {\c&H0000FF&}lissskin22{\c&HFFFFFF&}: <3 x⁣10
+Dialogue: 0:06:18.93, 0:06:21.26, Default, {\c&H008000&}nomad__cry{\c&HFFFFFF&}: LuvHearts bufaLove x⁣3
+Dialogue: 0:06:19.13, 0:06:21.62, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: Удачи с переустановкой, семпай <3
+Dialogue: 0:06:20.00, 0:06:22.09, Default, {\c&H7FFF00&}hokins{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:20.05, 0:06:22.21, Default, {\c&HFFFFFF&}KIR_CORE{\c&HFFFFFF&}: bufaYodaMLG
+Dialogue: 0:06:20.16, 0:06:22.34, Default, {\c&HFF0000&}Albatros128{\c&HFFFFFF&}: bufaLove x⁣7
+Dialogue: 0:06:20.37, 0:06:22.55, Default, {\c&HFFFFFF&}il_al42{\c&HFFFFFF&}: bufaLove x⁣3
+Dialogue: 0:06:21.05, 0:06:23.71, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Жалко конечно, но ничего. Ждем тебя поскорее
+Dialogue: 0:06:21.56, 0:06:23.96, Default, {\c&HE22B8A&}Ginzoku{\c&HFFFFFF&}: А чат, как Моника выползет.
+Dialogue: 0:06:22.13, 0:06:24.34, Default, {\c&H7FFF00&}GRANDER45{\c&HFFFFFF&}: orennzLove x⁣4
+Dialogue: 0:06:22.92, 0:06:25.01, Default, {\c&H32CD9A&}tasty_semochka{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:23.38, 0:06:25.56, Default, {\c&HFFFFFF&}athoel{\c&HFFFFFF&}: bufaLove x⁣4
+Dialogue: 0:06:23.61, 0:06:25.70, Default, {\c&HFFFFFF&}screampanda123{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:23.90, 0:06:26.63, Default, {\c&H1E69D2&}Ulf_Hednar{\c&HFFFFFF&}: Все-равно увидели, пообщались SeemsGood \N@BlackUFA
+; Dialogue: 0:06:24.44, 0:06:27.38, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: @babaika_yaga -> Ну ты со смайлами то не \Nперебарщивай [warning]
+Dialogue: 0:06:25.00, 0:06:27.09, Default, {\c&H008000&}Dzirt2a{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:25.46, 0:06:27.80, Default, {\c&HFF0000&}VelFyt{\c&HFFFFFF&}: Ты там заходи, если что
+Dialogue: 0:06:26.46, 0:06:28.55, Default, {\c&H7FFF00&}matatame{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:26.69, 0:06:29.05, Default, {\c&H0000FF&}Ursenok{\c&HFFFFFF&}: привет Артурка dianad415
+Dialogue: 0:06:26.77, 0:06:29.16, Default, {\c&H0045FF&}NemesissGames{\c&HFFFFFF&}: вовремя зашел ребята бе бе
+Dialogue: 0:06:26.99, 0:06:29.54, Default, {\c&HFFFFFF&}kesshat{\c&HFFFFFF&}: Историю Браузера почистить не забудь)
+Dialogue: 0:06:27.37, 0:06:29.46, Default, {\c&HFFFFFF&}svekolochka{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:28.31, 0:06:30.86, Default, {\c&H0000FF&}salo_c_myasom{\c&HFFFFFF&}: hkhkhkhkhkjhkjhkjhkjhjkkhkhkhkhkkhkkh
+Dialogue: 0:06:29.53, 0:06:31.62, Default, {\c&HFFFFFF&}Oriole448{\c&HFFFFFF&}: удачи!
+Dialogue: 0:06:29.62, 0:06:31.71, Default, {\c&HFFFFFF&}vlad_zip637{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:06:30.13, 0:06:32.71, Default, {\c&HFFFFFF&}enik113{\c&HFFFFFF&}: устал ломать игры, начал ломать технику
+Dialogue: 0:06:30.30, 0:06:32.48, Default, {\c&H0000FF&}PepegaScorpion36{\c&HFFFFFF&}: bufaLove x⁣3
+Dialogue: 0:06:30.77, 0:06:32.86, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:06:30.79, 0:06:32.91, Default, {\c&HFFFFFF&}kamijqk{\c&HFFFFFF&}: сил тебе
+Dialogue: 0:06:30.97, 0:06:33.39, Default, {\c&HFFFFFF&}subjectalexander{\c&HFFFFFF&}: Все к лучшему) Потом почилим
+Dialogue: 0:06:31.15, 0:06:33.36, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: PurpleStar x⁣3
+Dialogue: 0:06:31.59, 0:06:33.68, Default, {\c&H0045FF&}KirliKi{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:31.60, 0:06:33.69, Default, {\c&H578B2E&}hillagarma{\c&HFFFFFF&}: <3 x⁣8
+Dialogue: 0:06:31.64, 0:06:33.73, Default, {\c&HE22B8A&}Varfalamei3000{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:32.39, 0:06:34.60, Default, {\c&H0000FF&}ep_rst{\c&HFFFFFF&}: сил тебе Kappa
+Dialogue: 0:06:32.40, 0:06:34.91, Default, {\c&HFFFFFF&}anita_nesina{\c&HFFFFFF&}: чорт, призраков хотелось половить(
+Dialogue: 0:06:32.81, 0:06:35.11, Default, {\c&HFF0000&}zibo8{\c&HFFFFFF&}: эх зельда BibleThump
+Dialogue: 0:06:32.81, 0:06:35.03, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: удачи pepeSmack
+Dialogue: 0:06:33.18, 0:06:35.27, Default, {\c&HFFFFFF&}mirlett{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:33.50, 0:06:35.59, Default, {\c&H20A5DA&}red_socks_{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:06:34.84, 0:06:37.02, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: KPOPlove x⁣3
+Dialogue: 0:06:35.12, 0:06:37.33, Default, {\c&HFFFFFF&}Slovnik_03{\c&HFFFFFF&}: пипега пипает?
+Dialogue: 0:06:35.17, 0:06:37.26, Default, {\c&H7FFF00&}nkarp13{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:35.17, 0:06:37.35, Default, {\c&HFF0000&}leela_lo{\c&HFFFFFF&}: bufaLove x⁣5
+Dialogue: 0:06:36.58, 0:06:38.67, Default, {\c&HFFFFFF&}azrads{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:37.48, 0:06:39.78, Default, {\c&H0000FF&}YuraDaim{\c&HFFFFFF&}: Силы земли стримлеру
+Dialogue: 0:06:37.48, 0:06:39.60, Default, {\c&H008000&}Nezateynik{\c&HFFFFFF&}: сил тебе
+Dialogue: 0:06:37.55, 0:06:39.64, Default, {\c&HE22B8A&}Ginzoku{\c&HFFFFFF&}: <3 x⁣8
+Dialogue: 0:06:37.63, 0:06:39.84, Default, {\c&H0045FF&}fluffycrabby{\c&HFFFFFF&}: HahaCat <3 x⁣4
+Dialogue: 0:06:37.71, 0:06:39.80, Default, {\c&HFFFFFF&}omg_tornado{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:37.89, 0:06:40.28, Default, {\c&HFF901E&}Yuri_jan{\c&HFFFFFF&}: форматируй меня полностью!
+Dialogue: 0:06:38.31, 0:06:40.49, Default, {\c&HFFFFFF&}Alienlight{\c&HFFFFFF&}: bufaLove x⁣6
+Dialogue: 0:06:39.16, 0:06:41.34, Default, {\c&HFFFFFF&}Rild_Spacey{\c&HFFFFFF&}: bufaLove x⁣6
+Dialogue: 0:06:39.79, 0:06:41.97, Default, {\c&HFFFFFF&}wil_dsunday{\c&HFFFFFF&}: bufaLove x⁣3
+Dialogue: 0:06:39.80, 0:06:42.11, Default, {\c&H578B2E&}leontiy23{\c&HFFFFFF&}: <3 x⁣3 PurpleStar x⁣3
+Dialogue: 0:06:40.24, 0:06:42.33, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:40.53, 0:06:42.66, Default, {\c&H008000&}zhogolevich{\c&HFFFFFF&}: Удачи там
+Dialogue: 0:06:41.44, 0:06:43.65, Default, {\c&HFFFFFF&}marsianka_somni{\c&HFFFFFF&}: VirtualHug x⁣5
+Dialogue: 0:06:41.68, 0:06:43.92, Default, {\c&HA09E5F&}pulsar333{\c&HFFFFFF&}: FeelsLoveMan x⁣3
+Dialogue: 0:06:42.19, 0:06:44.28, Default, {\c&HFFFFFF&}great_goodwin{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:42.33, 0:06:44.54, Default, {\c&HFFFFFF&}omg_tornado{\c&HFFFFFF&}: PurpleStar x⁣5
+Dialogue: 0:06:42.51, 0:06:44.60, Default, {\c&H008000&}PiroNice{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:06:42.81, 0:06:44.85, Default, {\c&H2222B2&}Khan_Astorath{\c&HFFFFFF&}: LUL
+Dialogue: 0:06:43.22, 0:06:45.92, Default, {\c&H876645&}Umetsu_rin{\c&HFFFFFF&}: kerish doctor попробуй, может поможет @blackufa
+Dialogue: 0:06:43.37, 0:06:45.46, Default, {\c&HE22B8A&}alexcervato{\c&HFFFFFF&}: <3 x⁣6
+Dialogue: 0:06:43.73, 0:06:45.82, Default, {\c&H20A5DA&}MoyaBulochka{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:44.15, 0:06:46.24, Default, {\c&HE22B8A&}jimbo_moralesh{\c&HFFFFFF&}: <3 x⁣8
+Dialogue: 0:06:44.71, 0:06:46.98, Default, {\c&HFFFFFF&}Crey5on{\c&HFFFFFF&}: Сил тебе @BlackUFA
+; Dialogue: 0:06:44.78, 0:06:46.84, Default, {\c&H0000FF&}zeal23nsk{\c&HFFFFFF&}: !icq
+Dialogue: 0:06:45.18, 0:06:47.27, Default, {\c&HFFFFFF&}nataliazag{\c&HFFFFFF&}: <3 x⁣3
+; Dialogue: 0:06:45.22, 0:06:47.82, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @zeal23nsk, у вас 76 ICQ (-56) peepoClap
+Dialogue: 0:06:46.57, 0:06:49.06, Default, {\c&HFFFFFF&}stas_na_chas{\c&HFFFFFF&}: а что случилосяяяяяяяяяяяяяяяяяяя
+Dialogue: 0:06:47.28, 0:06:49.76, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: Совсем внимания нам не уделяешь(
+Dialogue: 0:06:49.17, 0:06:51.26, Default, {\c&H0045FF&}LiorT13{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:49.24, 0:06:51.49, Default, {\c&HFFFFFF&}omg_tornado{\c&HFFFFFF&}: PurpleStar <3 x⁣2
+Dialogue: 0:06:49.56, 0:06:51.65, Default, {\c&H0045FF&}DonnyKat{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:49.58, 0:06:51.67, Default, {\c&HFFFFFF&}inoplanetyan13{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:06:50.03, 0:06:52.21, Default, {\c&HFFFFFF&}meimur{\c&HFFFFFF&}: bufaLove x⁣3
+Dialogue: 0:06:50.55, 0:06:52.64, Default, {\c&HFF901E&}2DTL{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:06:50.90, 0:06:53.30, Default, {\c&HE22B8A&}Lovely_Predator{\c&HFFFFFF&}: Пока! Удачи во всём! <3 x⁣3
+Dialogue: 0:06:51.56, 0:06:53.65, Default, {\c&HFF0000&}Mr_Zlakuz{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:06:51.68, 0:06:53.86, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: bufaLove x⁣4
+Dialogue: 0:06:51.78, 0:06:53.87, Default, {\c&H2222B2&}vkusnetskiy_kolbass{\c&HFFFFFF&}: <3 x⁣5
+Dialogue: 0:06:52.24, 0:06:54.37, Default, {\c&H20A5DA&}vladislavm20{\c&HFFFFFF&}: Keepo x⁣4
+Dialogue: 0:06:53.31, 0:06:55.50, Default, {\c&HFF901E&}Anasazy105212{\c&HFFFFFF&}: LuvHearts x⁣3
+Dialogue: 0:06:53.39, 0:06:55.64, Default, {\c&HE22B8A&}TheDrHax{\c&HFFFFFF&}: пип PETTHEAPTEEPO
+Dialogue: 0:06:53.85, 0:06:56.04, Default, {\c&HFF901E&}creme__brulee{\c&HFFFFFF&}: LuvHearts x⁣3
+Dialogue: 0:06:54.05, 0:06:56.15, Default, {\c&H7FFF00&}v_Skai_v{\c&HFFFFFF&}: HeyGuys
+Dialogue: 0:06:54.43, 0:06:56.49, Default, {\c&HE22B8A&}arexdiv{\c&HFFFFFF&}: Пока
+Dialogue: 0:06:54.56, 0:06:56.81, Default, {\c&H0000FF&}dorivamp{\c&HFFFFFF&}: сил тебе, крепись
+Dialogue: 0:06:54.72, 0:06:56.81, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:06:54.97, 0:06:57.15, Default, {\c&H0000FF&}havines{\c&HFFFFFF&}: bufaLove x⁣5
+Dialogue: 0:06:55.48, 0:06:57.57, Default, {\c&H2222B2&}Oddrago{\c&HFFFFFF&}: <3 x⁣8
+Dialogue: 0:06:55.72, 0:06:57.90, Default, {\c&HFFFFFF&}athoel{\c&HFFFFFF&}: bufaLove x⁣6
+Dialogue: 0:06:56.86, 0:06:59.01, Default, {\c&H0045FF&}NemesissGames{\c&HFFFFFF&}: силы земли
+Dialogue: 0:06:59.32, 0:07:01.41, Default, {\c&HFFFFFF&}wil_dsunday{\c&HFFFFFF&}: пипаем
+Dialogue: 0:07:01.37, 0:07:03.79, Default, {\c&HFF0000&}zibo8{\c&HFFFFFF&}: ну ты держись там! OpieOP <3
+Dialogue: 0:07:01.64, 0:07:03.73, Default, {\c&HFFFFFF&}pocomaha{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:07:01.97, 0:07:04.33, Default, {\c&H0045FF&}DonnyKat{\c&HFFFFFF&}: Вовремя я пришел LUL x⁣5
+Dialogue: 0:07:02.46, 0:07:04.55, Default, {\c&H32CD9A&}zhelya_{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:07:03.25, 0:07:05.34, Default, {\c&H7FFF00&}v_Skai_v{\c&HFFFFFF&}: <3 x⁣7
+Dialogue: 0:07:03.74, 0:07:05.86, Default, {\c&H0045FF&}KirliKi{\c&HFFFFFF&}: Пока чат
+Dialogue: 0:07:06.31, 0:07:08.56, Default, {\c&H7FFF00&}hokins{\c&HFFFFFF&}: пип PETTHEAPTEEPO
+; Dialogue: 0:07:06.61, 0:07:08.80, Default, {\c&HFF901E&}Kilka_v_Domkrate{\c&HFFFFFF&}: !шар не пипай
+; Dialogue: 0:07:07.09, 0:07:09.57, Default, {\c&H008000&}TheDrHaxBot{\c&HFFFFFF&}: @kilka_v_domkrate, пип PETTHECAT
+Dialogue: 0:07:09.12, 0:07:11.51, Default, {\c&HFFFFFF&}tutupitu{\c&HFFFFFF&}: харашо, мы не будем пипать
+Dialogue: 0:07:09.97, 0:07:12.22, Default, {\c&H7FFF00&}matatame{\c&HFFFFFF&}: PETTHEAPTEEPO x⁣3
+Dialogue: 0:07:10.25, 0:07:12.50, Default, {\c&HFF0000&}w3k5ik{\c&HFFFFFF&}: PogChamp PogChamp
+Dialogue: 0:07:10.53, 0:07:12.87, Default, {\c&HFF0000&}skirdakov_la_li_lu_le_lo{\c&HFFFFFF&}: bufaLove x⁣4 VoHiYo x⁣4
+Dialogue: 0:07:14.07, 0:07:16.25, Default, {\c&H0045FF&}Snezhulka{\c&HFFFFFF&}: bufaLove x⁣6
+Dialogue: 0:07:17.02, 0:07:19.48, Default, {\c&HFFFFFF&}BeardyOrc{\c&HFFFFFF&}: @stas_na_chas Артур забеременел
+Dialogue: 0:07:19.50, 0:07:21.69, Default, {\c&HE22B8A&}belka_pirozhok{\c&HFFFFFF&}: PETTHEAPTEEPO
+Dialogue: 0:07:20.08, 0:07:22.35, Default, {\c&HFFFFFF&}anastasiazorina{\c&HFFFFFF&}: а что случилось???
